@@ -1,2 +1,4 @@
 api/node_modules
 api/.env
+convertidor/input
+convertidor/output

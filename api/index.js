@@ -1,11 +1,15 @@
 const express = require('express')
+const cors = require('cors')
 const app = express()
 const port = 3000
 
-
+// Enable CORS for all routes
+app.use(cors())
 
 app.get('/', (req, res) => {
-  res.json({ message: 'Hello, World!' })
+  res.json({ 
+    name: 'sat-catalogos-api',
+    message: 'Hola, parece que el api se esta ejecutando correctamente.' })
 })
 
 app.get('/formas_pago', (req, res) => {
@@ -15,5 +19,5 @@ app.get('/formas_pago', (req, res) => {
 })
 
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`)
+  console.log(`App listening on port http://localhost:${port}`)
 })
