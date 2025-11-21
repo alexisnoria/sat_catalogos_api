@@ -1,0 +1,18 @@
+[
+    {
+        "c_metodopago":"PUE",
+        "descripcion":"Pago en una sola exhibición",
+        "fecha_inicio_de_vigencia":1640995200000,
+        "fecha_fin_de_vigencia":null,
+        "unnamed:_4":null,
+        "unnamed:_5":null
+    },
+    {
+        "c_metodopago":"PPD",
+        "descripcion":"Pago en parcialidades o diferido",
+        "fecha_inicio_de_vigencia":1640995200000,
+        "fecha_fin_de_vigencia":null,
+        "unnamed:_4":null,
+        "unnamed:_5":null
+    }
+]

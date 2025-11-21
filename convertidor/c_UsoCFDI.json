@@ -1,0 +1,227 @@
+[
+    {
+        "c_usocfdi":null,
+        "descripcion":null,
+        "aplica_para_tipo_persona":"Física",
+        "unnamed:_3":"Moral",
+        "fecha_inicio_de_vigencia":null,
+        "fecha_fin_de_vigencia":null,
+        "regimen_fiscal_receptor":null
+    },
+    {
+        "c_usocfdi":"G01",
+        "descripcion":"Adquisición de mercancías.",
+        "aplica_para_tipo_persona":"Sí",
+        "unnamed:_3":"Sí",
+        "fecha_inicio_de_vigencia":1640995200000,
+        "fecha_fin_de_vigencia":null,
+        "regimen_fiscal_receptor":"601, 603, 606, 612, 620, 621, 622, 623, 624, 625,626"
+    },
+    {
+        "c_usocfdi":"G02",
+        "descripcion":"Devoluciones, descuentos o bonificaciones.",
+        "aplica_para_tipo_persona":"Sí",
+        "unnamed:_3":"Sí",
+        "fecha_inicio_de_vigencia":1640995200000,
+        "fecha_fin_de_vigencia":null,
+        "regimen_fiscal_receptor":"601, 603, 606, 612, 616, 620, 621, 622, 623, 624, 625,626"
+    },
+    {
+        "c_usocfdi":"G03",
+        "descripcion":"Gastos en general.",
+        "aplica_para_tipo_persona":"Sí",
+        "unnamed:_3":"Sí",
+        "fecha_inicio_de_vigencia":1640995200000,
+        "fecha_fin_de_vigencia":null,
+        "regimen_fiscal_receptor":"601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+    },
+    {
+        "c_usocfdi":"I01",
+        "descripcion":"Construcciones.",
+        "aplica_para_tipo_persona":"Sí",
+        "unnamed:_3":"Sí",
+        "fecha_inicio_de_vigencia":1640995200000,
+        "fecha_fin_de_vigencia":null,
+        "regimen_fiscal_receptor":"601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+    },
+    {
+        "c_usocfdi":"I02",
+        "descripcion":"Mobiliario y equipo de oficina por inversiones.",
+        "aplica_para_tipo_persona":"Sí",
+        "unnamed:_3":"Sí",
+        "fecha_inicio_de_vigencia":1640995200000,
+        "fecha_fin_de_vigencia":null,
+        "regimen_fiscal_receptor":"601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+    },
+    {
+        "c_usocfdi":"I03",
+        "descripcion":"Equipo de transporte.",
+        "aplica_para_tipo_persona":"Sí",
+        "unnamed:_3":"Sí",
+        "fecha_inicio_de_vigencia":1640995200000,
+        "fecha_fin_de_vigencia":null,
+        "regimen_fiscal_receptor":"601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+    },
+    {
+        "c_usocfdi":"I04",
+        "descripcion":"Equipo de computo y accesorios.",
+        "aplica_para_tipo_persona":"Sí",
+        "unnamed:_3":"Sí",
+        "fecha_inicio_de_vigencia":1640995200000,
+        "fecha_fin_de_vigencia":null,
+        "regimen_fiscal_receptor":"601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+    },
+    {
+        "c_usocfdi":"I05",
+        "descripcion":"Dados, troqueles, moldes, matrices y herramental.",
+        "aplica_para_tipo_persona":"Sí",
+        "unnamed:_3":"Sí",
+        "fecha_inicio_de_vigencia":1640995200000,
+        "fecha_fin_de_vigencia":null,
+        "regimen_fiscal_receptor":"601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+    },
+    {
+        "c_usocfdi":"I06",
+        "descripcion":"Comunicaciones telefónicas.",
+        "aplica_para_tipo_persona":"Sí",
+        "unnamed:_3":"Sí",
+        "fecha_inicio_de_vigencia":1640995200000,
+        "fecha_fin_de_vigencia":null,
+        "regimen_fiscal_receptor":"601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+    },
+    {
+        "c_usocfdi":"I07",
+        "descripcion":"Comunicaciones satelitales.",
+        "aplica_para_tipo_persona":"Sí",
+        "unnamed:_3":"Sí",
+        "fecha_inicio_de_vigencia":1640995200000,
+        "fecha_fin_de_vigencia":null,
+        "regimen_fiscal_receptor":"601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+    },
+    {
+        "c_usocfdi":"I08",
+        "descripcion":"Otra maquinaria y equipo.",
+        "aplica_para_tipo_persona":"Sí",
+        "unnamed:_3":"Sí",
+        "fecha_inicio_de_vigencia":1640995200000,
+        "fecha_fin_de_vigencia":null,
+        "regimen_fiscal_receptor":"601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+    },
+    {
+        "c_usocfdi":"D01",
+        "descripcion":"Honorarios médicos, dentales y gastos hospitalarios.",
+        "aplica_para_tipo_persona":"Sí",
+        "unnamed:_3":"No",
+        "fecha_inicio_de_vigencia":1640995200000,
+        "fecha_fin_de_vigencia":null,
+        "regimen_fiscal_receptor":"605, 606, 608, 611, 612, 614, 607, 615, 625"
+    },
+    {
+        "c_usocfdi":"D02",
+        "descripcion":"Gastos médicos por incapacidad o discapacidad.",
+        "aplica_para_tipo_persona":"Sí",
+        "unnamed:_3":"No",
+        "fecha_inicio_de_vigencia":1640995200000,
+        "fecha_fin_de_vigencia":null,
+        "regimen_fiscal_receptor":"605, 606, 608, 611, 612, 614, 607, 615, 625"
+    },
+    {
+        "c_usocfdi":"D03",
+        "descripcion":"Gastos funerales.",
+        "aplica_para_tipo_persona":"Sí",
+        "unnamed:_3":"No",
+        "fecha_inicio_de_vigencia":1640995200000,
+        "fecha_fin_de_vigencia":null,
+        "regimen_fiscal_receptor":"605, 606, 608, 611, 612, 614, 607, 615, 625"
+    },
+    {
+        "c_usocfdi":"D04",
+        "descripcion":"Donativos.",
+        "aplica_para_tipo_persona":"Sí",
+        "unnamed:_3":"No",
+        "fecha_inicio_de_vigencia":1640995200000,
+        "fecha_fin_de_vigencia":null,
+        "regimen_fiscal_receptor":"605, 606, 608, 611, 612, 614, 607, 615, 625"
+    },
+    {
+        "c_usocfdi":"D05",
+        "descripcion":"Intereses reales efectivamente pagados por créditos hipotecarios (casa habitación).",
+        "aplica_para_tipo_persona":"Sí",
+        "unnamed:_3":"No",
+        "fecha_inicio_de_vigencia":1640995200000,
+        "fecha_fin_de_vigencia":null,
+        "regimen_fiscal_receptor":"605, 606, 608, 611, 612, 614, 607, 615, 625"
+    },
+    {
+        "c_usocfdi":"D06",
+        "descripcion":"Aportaciones voluntarias al SAR.",
+        "aplica_para_tipo_persona":"Sí",
+        "unnamed:_3":"No",
+        "fecha_inicio_de_vigencia":1640995200000,
+        "fecha_fin_de_vigencia":null,
+        "regimen_fiscal_receptor":"605, 606, 608, 611, 612, 614, 607, 615, 625"
+    },
+    {
+        "c_usocfdi":"D07",
+        "descripcion":"Primas por seguros de gastos médicos.",
+        "aplica_para_tipo_persona":"Sí",
+        "unnamed:_3":"No",
+        "fecha_inicio_de_vigencia":1640995200000,
+        "fecha_fin_de_vigencia":null,
+        "regimen_fiscal_receptor":"605, 606, 608, 611, 612, 614, 607, 615, 625"
+    },
+    {
+        "c_usocfdi":"D08",
+        "descripcion":"Gastos de transportación escolar obligatoria.",
+        "aplica_para_tipo_persona":"Sí",
+        "unnamed:_3":"No",
+        "fecha_inicio_de_vigencia":1640995200000,
+        "fecha_fin_de_vigencia":null,
+        "regimen_fiscal_receptor":"605, 606, 608, 611, 612, 614, 607, 615, 625"
+    },
+    {
+        "c_usocfdi":"D09",
+        "descripcion":"Depósitos en cuentas para el ahorro, primas que tengan como base planes de pensiones.",
+        "aplica_para_tipo_persona":"Sí",
+        "unnamed:_3":"No",
+        "fecha_inicio_de_vigencia":1640995200000,
+        "fecha_fin_de_vigencia":null,
+        "regimen_fiscal_receptor":"605, 606, 608, 611, 612, 614, 607, 615, 625"
+    },
+    {
+        "c_usocfdi":"D10",
+        "descripcion":"Pagos por servicios educativos (colegiaturas).",
+        "aplica_para_tipo_persona":"Sí",
+        "unnamed:_3":"No",
+        "fecha_inicio_de_vigencia":1640995200000,
+        "fecha_fin_de_vigencia":null,
+        "regimen_fiscal_receptor":"605, 606, 608, 611, 612, 614, 607, 615, 625"
+    },
+    {
+        "c_usocfdi":"S01",
+        "descripcion":"Sin efectos fiscales.  ",
+        "aplica_para_tipo_persona":"Sí",
+        "unnamed:_3":"Sí",
+        "fecha_inicio_de_vigencia":1640995200000,
+        "fecha_fin_de_vigencia":null,
+        "regimen_fiscal_receptor":"601, 603, 605, 606, 608, 610, 611, 612, 614, 616, 620, 621, 622, 623, 624, 607, 615, 625, 626"
+    },
+    {
+        "c_usocfdi":"CP01",
+        "descripcion":"Pagos",
+        "aplica_para_tipo_persona":"Sí",
+        "unnamed:_3":"Sí",
+        "fecha_inicio_de_vigencia":1640995200000,
+        "fecha_fin_de_vigencia":null,
+        "regimen_fiscal_receptor":"601, 603, 605, 606, 608, 610, 611, 612, 614, 616, 620, 621, 622, 623, 624, 607, 615, 625, 626"
+    },
+    {
+        "c_usocfdi":"CN01",
+        "descripcion":"Nómina",
+        "aplica_para_tipo_persona":"Sí",
+        "unnamed:_3":"No",
+        "fecha_inicio_de_vigencia":1640995200000,
+        "fecha_fin_de_vigencia":null,
+        "regimen_fiscal_receptor":605
+    }
+]

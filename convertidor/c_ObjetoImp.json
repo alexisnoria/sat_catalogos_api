@@ -1,0 +1,66 @@
+[
+    {
+        "c_objetoimp":1,
+        "descripcion":"No objeto de impuesto.",
+        "fecha_inicio_de_vigencia":1640995200000,
+        "fecha_fin_de_vigencia":null,
+        "unnamed:_4":null,
+        "unnamed:_5":null
+    },
+    {
+        "c_objetoimp":2,
+        "descripcion":"Sí objeto de impuesto.",
+        "fecha_inicio_de_vigencia":1640995200000,
+        "fecha_fin_de_vigencia":null,
+        "unnamed:_4":null,
+        "unnamed:_5":null
+    },
+    {
+        "c_objetoimp":3,
+        "descripcion":"Sí objeto del impuesto y no obligado al desglose.",
+        "fecha_inicio_de_vigencia":1640995200000,
+        "fecha_fin_de_vigencia":null,
+        "unnamed:_4":null,
+        "unnamed:_5":null
+    },
+    {
+        "c_objetoimp":4,
+        "descripcion":"Sí objeto del impuesto y no causa impuesto.",
+        "fecha_inicio_de_vigencia":1665100800000,
+        "fecha_fin_de_vigencia":null,
+        "unnamed:_4":null,
+        "unnamed:_5":null
+    },
+    {
+        "c_objetoimp":5,
+        "descripcion":"Sí objeto del impuesto, IVA crédito PODEBI.",
+        "fecha_inicio_de_vigencia":1701820800000,
+        "fecha_fin_de_vigencia":null,
+        "unnamed:_4":null,
+        "unnamed:_5":null
+    },
+    {
+        "c_objetoimp":6,
+        "descripcion":"Sí objeto del IVA, No traslado IVA.",
+        "fecha_inicio_de_vigencia":1734048000000,
+        "fecha_fin_de_vigencia":null,
+        "unnamed:_4":null,
+        "unnamed:_5":null
+    },
+    {
+        "c_objetoimp":7,
+        "descripcion":"No traslado del IVA, Sí desglose IEPS.",
+        "fecha_inicio_de_vigencia":1734048000000,
+        "fecha_fin_de_vigencia":null,
+        "unnamed:_4":null,
+        "unnamed:_5":null
+    },
+    {
+        "c_objetoimp":8,
+        "descripcion":"No traslado del IVA, No desglose IEPS.",
+        "fecha_inicio_de_vigencia":1734048000000,
+        "fecha_fin_de_vigencia":null,
+        "unnamed:_4":null,
+        "unnamed:_5":null
+    }
+]
