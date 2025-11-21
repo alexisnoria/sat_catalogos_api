@@ -30,7 +30,10 @@ function getLatestCatalogo(filename) {
     }
 
     const fileContent = fs.readFileSync(filePath, 'utf8');
-    return JSON.parse(fileContent);
+    return {
+        version: latestDir,
+        data: JSON.parse(fileContent)
+    }
 }
 
 module.exports = {

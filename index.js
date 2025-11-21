@@ -3,6 +3,7 @@ const cors = require('cors')
 const app = express()
 const port = 3000
 const { getLatestCatalogo } = require('./utils');
+const { startScheduler } = require('./conversion');
 
 // Enable CORS for all routes
 app.use(cors())
@@ -16,8 +17,11 @@ app.get('/', (req, res) => {
 
 app.get('/formas_pago', (req, res) => {
     try {
-        const data = getLatestCatalogo('c_FormaPago.json');
-        res.json(data);
+        const { version, data } = getLatestCatalogo('c_FormaPago.json');
+        res.json({
+            version,
+            data
+        });
     } catch (error) {
         console.error('Error serving formas_pago:', error.message);
         if (error.message.includes('not found')) {
@@ -29,9 +33,6 @@ app.get('/formas_pago', (req, res) => {
 })
 
 app.listen(port, () => {
-  console.log(`App listening on port http://localhost:${port}`)
-  
-  // Start the daily conversion scheduler
-  const { startScheduler } = require('./conversion');
+  console.log(`Sat Catalogos API listening on port http://localhost:${port}`)
   startScheduler();
 })

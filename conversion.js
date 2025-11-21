@@ -217,7 +217,7 @@ function startScheduler() {
     // Cron pattern: "0 0 * * *" (At 00:00)
     // We need to handle timezone. node-cron supports timezone.
     
-    cron.schedule('4 16 * * *', () => {
+    cron.schedule('0 0 * * *', () => {
         console.log("Running scheduled task: SAT Catalog Conversion");
         runConversion();
     }, {
