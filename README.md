@@ -13,8 +13,9 @@ El objetivo principal es solucionar la problemática de mantener actualizados lo
 ## 🛠 Funcionalidades
 
 -   **Automatización**: Un cron job se ejecuta diariamente a las 00:00 (hora CDMX) para buscar actualizaciones en el sitio del SAT.
+-   **Inicialización Inteligente**: Si no hay datos locales al iniciar, el sistema realiza una descarga y conversión inicial automáticamente.
 -   **Conversión**: Transforma el archivo `catCFDI_V_4_*.xls` en múltiples archivos JSON, uno por cada catálogo (hoja del Excel).
--   **API REST**: Endpoints para consultar la información procesada.
+-   **API REST Dinámica**: Un único endpoint flexible para consultar cualquier catálogo disponible.
 
 ## 📦 Instalación y Uso
 
@@ -27,19 +28,34 @@ El objetivo principal es solucionar la problemática de mantener actualizados lo
     ```bash
     node index.js
     ```
-    El servidor iniciará en el puerto 3000 y activará el planificador de tareas.
+    El servidor iniciará en el puerto 3000. Si es la primera vez que se ejecuta, tomará unos momentos para descargar y procesar los catálogos del SAT.
 
 ## 🔌 Endpoints
 
 ### `GET /`
-Verifica que la API esté funcionando.
+Verifica que la API esté funcionando y devuelve un mensaje de estado.
 
-### `GET /formas_pago`
-Devuelve el catálogo de "Formas de Pago" más reciente disponible en el sistema.
+### `GET /:catalogo`
+Devuelve el contenido del catálogo especificado en formato JSON. El parámetro `:catalogo` debe coincidir con el nombre de la hoja en el archivo Excel del SAT (generalmente comienzan con `c_`).
+
+**Ejemplos de uso:**
+
+-   Obtener Formas de Pago:
+    `GET /c_FormaPago`
+    
+-   Obtener Monedas:
+    `GET /c_Moneda`
+
+-   Obtener Códigos Postales:
+    `GET /c_CodigoPostal`
+
+-   Obtener Regímenes Fiscales:
+    `GET /c_RegimenFiscal`
 
 ## 📂 Estructura del Proyecto
 
--   `index.js`: Punto de entrada de la API.
--   `conversion.js`: Lógica de descarga y conversión de Excel a JSON.
+-   `index.js`: Punto de entrada de la API y definición de endpoints.
+-   `conversion.js`: Lógica de descarga, programación (cron) y conversión de Excel a JSON.
+-   `utils.js`: Funciones de utilidad para la lectura y recuperación de los datos procesados.
 -   `input/`: Almacena los archivos `.xls` descargados del SAT.
 -   `output/`: Almacena los archivos `.json` generados, organizados por fecha.
