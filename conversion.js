@@ -90,8 +90,10 @@ async function downloadCatalogFile() {
             console.log(`File downloaded successfully: ${filePath}`);
             return filePath;
         } catch (error) {
-            console.log(error);
-            // Continue to next date if not found or error
+            if (error.response && error.response.status === 404) {
+                console.log("File not found. Skipping to previous date.");
+                continue;
+            }
             continue;
         }
     }
@@ -135,10 +137,19 @@ async function processCatalogs(filePath) {
         let startRowIndex = -1;
         let sheetReplaced = sheetName.replace("_Parte_1", "").replace("_Parte_2", "").toLowerCase();
 
+        // Exception for c_NumPedimentoAduana where the title cell is c_Aduana
+        if (sheetName === 'c_NumPedimentoAduana') {
+            sheetReplaced = 'c_aduana';
+        } else if (['C_Colonia_1', 'C_Colonia_2', 'C_Colonia_3'].includes(sheetName)) {
+            sheetReplaced = 'c_colonia';
+        } else if (sheetName === 'c_TasaOCuota') {
+            sheetReplaced = 'rango o fijo';
+        }
+
         for (let i = 0; i < data.length; i++) {
             const firstCell = data[i][0];
             if (firstCell && firstCell.toString().toLowerCase() === sheetReplaced) {
-                startRowIndex = i + 1; // Header is usually the next row
+                startRowIndex = i;
                 break;
             }
         }
@@ -177,6 +188,12 @@ async function processCatalogs(filePath) {
             // For Parte_1/2, we use the headers we found, but apply them to the first 7 columns of the data.
         } else {
             headers = data[startRowIndex].map(h => cleanColumnName(h));
+        }
+
+        if (sheetName === 'c_TasaOCuota') {
+            headers[1] = 'valor_minimo';
+            headers[2] = 'valor_maximo';
+            dataStartIndex++;
         }
 
         // Extract data

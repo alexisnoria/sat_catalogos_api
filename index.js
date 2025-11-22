@@ -18,15 +18,27 @@ app.get('/', (req, res) => {
 })
 
 
-app.get('/formas_pago', (req, res) => {
+app.get('/:catalog', (req, res) => {
     try {
-        const { version, data } = getLatestCatalogo('c_FormaPago.json');
+        let { catalog } = req.params;
+
+        // Basic sanitization to prevent directory traversal
+        if (catalog.includes('..') || catalog.includes('/') || catalog.includes('\\')) {
+            return res.status(400).json({ error: 'Invalid catalog name' });
+        }
+
+        // Append .json if not present
+        if (!catalog.endsWith('.json')) {
+            catalog += '.json';
+        }
+
+        const { version, data } = getLatestCatalogo(catalog);
         res.json({
             version,
             data
         });
     } catch (error) {
-        console.error('Error serving formas_pago:', error.message);
+        console.error(`Error serving catalog ${req.params.catalog}:`, error.message);
         if (error.message.includes('not found')) {
             res.status(404).json({ error: error.message });
         } else {
