@@ -1,0 +1,149 @@
+[
+    {
+        "1": 2,
+        "44562": 44562,
+        "efectivo": "Cheque nominativo",
+        "no": "Si el RFC del emisor de la cuenta ordenante es XEXX010101000, este campo es obligatorio.",
+        "opcional": "Opcional"
+    },
+    {
+        "1": 3,
+        "44562": 44562,
+        "efectivo": "Transferencia electrónica de fondos",
+        "no": "Si el RFC del emisor de la cuenta ordenante es XEXX010101000, este campo es obligatorio.",
+        "opcional": "Opcional"
+    },
+    {
+        "1": 4,
+        "44562": 44562,
+        "efectivo": "Tarjeta de crédito",
+        "no": "Si el RFC del emisor de la cuenta ordenante es XEXX010101000, este campo es obligatorio.",
+        "opcional": "Opcional"
+    },
+    {
+        "1": 5,
+        "44562": 44562,
+        "efectivo": "Monedero electrónico",
+        "no": "No",
+        "opcional": "Opcional"
+    },
+    {
+        "1": 6,
+        "44562": 44562,
+        "efectivo": "Dinero electrónico",
+        "no": "No",
+        "opcional": "Opcional"
+    },
+    {
+        "1": 8,
+        "44562": 44562,
+        "efectivo": "Vales de despensa",
+        "no": "No",
+        "opcional": "Opcional"
+    },
+    {
+        "1": 12,
+        "44562": 44562,
+        "efectivo": "Dación en pago",
+        "no": "No",
+        "opcional": "Opcional"
+    },
+    {
+        "1": 13,
+        "44562": 44562,
+        "efectivo": "Pago por subrogación",
+        "no": "No",
+        "opcional": "Opcional"
+    },
+    {
+        "1": 14,
+        "44562": 44562,
+        "efectivo": "Pago por consignación",
+        "no": "No",
+        "opcional": "Opcional"
+    },
+    {
+        "1": 15,
+        "44562": 44562,
+        "efectivo": "Condonación",
+        "no": "No",
+        "opcional": "Opcional"
+    },
+    {
+        "1": 17,
+        "44562": 44562,
+        "efectivo": "Compensación",
+        "no": "No",
+        "opcional": "Opcional"
+    },
+    {
+        "1": 23,
+        "44562": 44562,
+        "efectivo": "Novación",
+        "no": "No",
+        "opcional": "Opcional"
+    },
+    {
+        "1": 24,
+        "44562": 44562,
+        "efectivo": "Confusión",
+        "no": "No",
+        "opcional": "Opcional"
+    },
+    {
+        "1": 25,
+        "44562": 44562,
+        "efectivo": "Remisión de deuda",
+        "no": "No",
+        "opcional": "Opcional"
+    },
+    {
+        "1": 26,
+        "44562": 44562,
+        "efectivo": "Prescripción o caducidad",
+        "no": "No",
+        "opcional": "Opcional"
+    },
+    {
+        "1": 27,
+        "44562": 44562,
+        "efectivo": "A satisfacción del acreedor",
+        "no": "No",
+        "opcional": "Opcional"
+    },
+    {
+        "1": 28,
+        "44562": 44562,
+        "efectivo": "Tarjeta de débito",
+        "no": "Si el RFC del emisor de la cuenta ordenante es XEXX010101000, este campo es obligatorio.",
+        "opcional": "Opcional"
+    },
+    {
+        "1": 29,
+        "44562": 44562,
+        "efectivo": "Tarjeta de servicios",
+        "no": "Si el RFC del emisor de la cuenta ordenante es XEXX010101000, este campo es obligatorio.",
+        "opcional": "Opcional"
+    },
+    {
+        "1": 30,
+        "44562": 44562,
+        "efectivo": "Aplicación de anticipos",
+        "no": "No",
+        "opcional": "Opcional"
+    },
+    {
+        "1": 31,
+        "44562": 44562,
+        "efectivo": "Intermediario pagos",
+        "no": "No",
+        "opcional": "Opcional"
+    },
+    {
+        "1": 99,
+        "44562": 44562,
+        "efectivo": "Por definir",
+        "no": "Opcional",
+        "opcional": "Opcional"
+    }
+]

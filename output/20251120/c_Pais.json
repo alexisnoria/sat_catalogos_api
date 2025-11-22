@@ -1,0 +1,998 @@
+[
+    {
+        "afg": "ALA",
+        "afganistan": "Islas Åland"
+    },
+    {
+        "afg": "ALB",
+        "afganistan": "Albania"
+    },
+    {
+        "afg": "DEU",
+        "afganistan": "Alemania"
+    },
+    {
+        "afg": "AND",
+        "afganistan": "Andorra"
+    },
+    {
+        "afg": "AGO",
+        "afganistan": "Angola"
+    },
+    {
+        "afg": "AIA",
+        "afganistan": "Anguila"
+    },
+    {
+        "afg": "ATA",
+        "afganistan": "Antártida"
+    },
+    {
+        "afg": "ATG",
+        "afganistan": "Antigua y Barbuda"
+    },
+    {
+        "afg": "SAU",
+        "afganistan": "Arabia Saudita"
+    },
+    {
+        "afg": "DZA",
+        "afganistan": "Argelia"
+    },
+    {
+        "afg": "ARG",
+        "afganistan": "Argentina"
+    },
+    {
+        "afg": "ARM",
+        "afganistan": "Armenia"
+    },
+    {
+        "afg": "ABW",
+        "afganistan": "Aruba"
+    },
+    {
+        "afg": "AUS",
+        "afganistan": "Australia"
+    },
+    {
+        "afg": "AUT",
+        "afganistan": "Austria"
+    },
+    {
+        "afg": "AZE",
+        "afganistan": "Azerbaiyán"
+    },
+    {
+        "afg": "BHS",
+        "afganistan": "Bahamas (las)"
+    },
+    {
+        "afg": "BGD",
+        "afganistan": "Bangladés"
+    },
+    {
+        "afg": "BRB",
+        "afganistan": "Barbados"
+    },
+    {
+        "afg": "BHR",
+        "afganistan": "Baréin"
+    },
+    {
+        "afg": "BEL",
+        "afganistan": "Bélgica"
+    },
+    {
+        "afg": "BLZ",
+        "afganistan": "Belice"
+    },
+    {
+        "afg": "BEN",
+        "afganistan": "Benín"
+    },
+    {
+        "afg": "BMU",
+        "afganistan": "Bermudas"
+    },
+    {
+        "afg": "BLR",
+        "afganistan": "Bielorrusia"
+    },
+    {
+        "afg": "MMR",
+        "afganistan": "Myanmar"
+    },
+    {
+        "afg": "BOL",
+        "afganistan": "Bolivia, Estado Plurinacional de"
+    },
+    {
+        "afg": "BIH",
+        "afganistan": "Bosnia y Herzegovina"
+    },
+    {
+        "afg": "BWA",
+        "afganistan": "Botsuana"
+    },
+    {
+        "afg": "BRA",
+        "afganistan": "Brasil"
+    },
+    {
+        "afg": "BRN",
+        "afganistan": "Brunéi Darussalam"
+    },
+    {
+        "afg": "BGR",
+        "afganistan": "Bulgaria"
+    },
+    {
+        "afg": "BFA",
+        "afganistan": "Burkina Faso"
+    },
+    {
+        "afg": "BDI",
+        "afganistan": "Burundi"
+    },
+    {
+        "afg": "BTN",
+        "afganistan": "Bután"
+    },
+    {
+        "afg": "CPV",
+        "afganistan": "Cabo Verde"
+    },
+    {
+        "afg": "KHM",
+        "afganistan": "Camboya"
+    },
+    {
+        "afg": "CMR",
+        "afganistan": "Camerún"
+    },
+    {
+        "afg": "CAN",
+        "afganistan": "Canadá"
+    },
+    {
+        "afg": "QAT",
+        "afganistan": "Catar"
+    },
+    {
+        "afg": "BES",
+        "afganistan": "Bonaire, San Eustaquio y Saba"
+    },
+    {
+        "afg": "TCD",
+        "afganistan": "Chad"
+    },
+    {
+        "afg": "CHL",
+        "afganistan": "Chile"
+    },
+    {
+        "afg": "CHN",
+        "afganistan": "China"
+    },
+    {
+        "afg": "CYP",
+        "afganistan": "Chipre"
+    },
+    {
+        "afg": "COL",
+        "afganistan": "Colombia"
+    },
+    {
+        "afg": "COM",
+        "afganistan": "Comoras"
+    },
+    {
+        "afg": "PRK",
+        "afganistan": "Corea (la República Democrática Popular de)"
+    },
+    {
+        "afg": "KOR",
+        "afganistan": "Corea (la República de)"
+    },
+    {
+        "afg": "CIV",
+        "afganistan": "Côte d'Ivoire"
+    },
+    {
+        "afg": "CRI",
+        "afganistan": "Costa Rica"
+    },
+    {
+        "afg": "HRV",
+        "afganistan": "Croacia"
+    },
+    {
+        "afg": "CUB",
+        "afganistan": "Cuba"
+    },
+    {
+        "afg": "CUW",
+        "afganistan": "Curaçao"
+    },
+    {
+        "afg": "DNK",
+        "afganistan": "Dinamarca"
+    },
+    {
+        "afg": "DMA",
+        "afganistan": "Dominica"
+    },
+    {
+        "afg": "ECU",
+        "afganistan": "Ecuador"
+    },
+    {
+        "afg": "EGY",
+        "afganistan": "Egipto"
+    },
+    {
+        "afg": "SLV",
+        "afganistan": "El Salvador"
+    },
+    {
+        "afg": "ARE",
+        "afganistan": "Emiratos Árabes Unidos (Los)"
+    },
+    {
+        "afg": "ERI",
+        "afganistan": "Eritrea"
+    },
+    {
+        "afg": "SVK",
+        "afganistan": "Eslovaquia"
+    },
+    {
+        "afg": "SVN",
+        "afganistan": "Eslovenia"
+    },
+    {
+        "afg": "ESP",
+        "afganistan": "España"
+    },
+    {
+        "afg": "USA",
+        "afganistan": "Estados Unidos (los)"
+    },
+    {
+        "afg": "EST",
+        "afganistan": "Estonia"
+    },
+    {
+        "afg": "ETH",
+        "afganistan": "Etiopía"
+    },
+    {
+        "afg": "PHL",
+        "afganistan": "Filipinas (las)"
+    },
+    {
+        "afg": "FIN",
+        "afganistan": "Finlandia"
+    },
+    {
+        "afg": "FJI",
+        "afganistan": "Fiyi"
+    },
+    {
+        "afg": "FRA",
+        "afganistan": "Francia"
+    },
+    {
+        "afg": "GAB",
+        "afganistan": "Gabón"
+    },
+    {
+        "afg": "GMB",
+        "afganistan": "Gambia (La)"
+    },
+    {
+        "afg": "GEO",
+        "afganistan": "Georgia"
+    },
+    {
+        "afg": "GHA",
+        "afganistan": "Ghana"
+    },
+    {
+        "afg": "GIB",
+        "afganistan": "Gibraltar"
+    },
+    {
+        "afg": "GRD",
+        "afganistan": "Granada"
+    },
+    {
+        "afg": "GRC",
+        "afganistan": "Grecia"
+    },
+    {
+        "afg": "GRL",
+        "afganistan": "Groenlandia"
+    },
+    {
+        "afg": "GLP",
+        "afganistan": "Guadalupe"
+    },
+    {
+        "afg": "GUM",
+        "afganistan": "Guam"
+    },
+    {
+        "afg": "GTM",
+        "afganistan": "Guatemala"
+    },
+    {
+        "afg": "GUF",
+        "afganistan": "Guayana Francesa"
+    },
+    {
+        "afg": "GGY",
+        "afganistan": "Guernsey"
+    },
+    {
+        "afg": "GIN",
+        "afganistan": "Guinea"
+    },
+    {
+        "afg": "GNB",
+        "afganistan": "Guinea-Bisáu"
+    },
+    {
+        "afg": "GNQ",
+        "afganistan": "Guinea Ecuatorial"
+    },
+    {
+        "afg": "GUY",
+        "afganistan": "Guyana"
+    },
+    {
+        "afg": "HTI",
+        "afganistan": "Haití"
+    },
+    {
+        "afg": "HND",
+        "afganistan": "Honduras"
+    },
+    {
+        "afg": "HKG",
+        "afganistan": "Hong Kong"
+    },
+    {
+        "afg": "HUN",
+        "afganistan": "Hungría"
+    },
+    {
+        "afg": "IND",
+        "afganistan": "India"
+    },
+    {
+        "afg": "IDN",
+        "afganistan": "Indonesia"
+    },
+    {
+        "afg": "IRQ",
+        "afganistan": "Irak"
+    },
+    {
+        "afg": "IRN",
+        "afganistan": "Irán (la República Islámica de)"
+    },
+    {
+        "afg": "IRL",
+        "afganistan": "Irlanda"
+    },
+    {
+        "afg": "BVT",
+        "afganistan": "Isla Bouvet"
+    },
+    {
+        "afg": "IMN",
+        "afganistan": "Isla de Man"
+    },
+    {
+        "afg": "CXR",
+        "afganistan": "Isla de Navidad"
+    },
+    {
+        "afg": "NFK",
+        "afganistan": "Isla Norfolk"
+    },
+    {
+        "afg": "ISL",
+        "afganistan": "Islandia"
+    },
+    {
+        "afg": "CYM",
+        "afganistan": "Islas Caimán (las)"
+    },
+    {
+        "afg": "CCK",
+        "afganistan": "Islas Cocos (Keeling)"
+    },
+    {
+        "afg": "COK",
+        "afganistan": "Islas Cook (las)"
+    },
+    {
+        "afg": "FRO",
+        "afganistan": "Islas Feroe (las)"
+    },
+    {
+        "afg": "SGS",
+        "afganistan": "Georgia del sur y las islas sandwich del sur"
+    },
+    {
+        "afg": "HMD",
+        "afganistan": "Isla Heard e Islas McDonald"
+    },
+    {
+        "afg": "FLK",
+        "afganistan": "Islas Malvinas [Falkland] (las)"
+    },
+    {
+        "afg": "MNP",
+        "afganistan": "Islas Marianas del Norte (las)"
+    },
+    {
+        "afg": "MHL",
+        "afganistan": "Islas Marshall (las)"
+    },
+    {
+        "afg": "PCN",
+        "afganistan": "Pitcairn"
+    },
+    {
+        "afg": "SLB",
+        "afganistan": "Islas Salomón (las)"
+    },
+    {
+        "afg": "TCA",
+        "afganistan": "Islas Turcas y Caicos (las)"
+    },
+    {
+        "afg": "UMI",
+        "afganistan": "Islas de Ultramar Menores de Estados Unidos (las)"
+    },
+    {
+        "afg": "VGB",
+        "afganistan": "Islas Vírgenes (Británicas)"
+    },
+    {
+        "afg": "VIR",
+        "afganistan": "Islas Vírgenes (EE.UU.)"
+    },
+    {
+        "afg": "ISR",
+        "afganistan": "Israel"
+    },
+    {
+        "afg": "ITA",
+        "afganistan": "Italia"
+    },
+    {
+        "afg": "JAM",
+        "afganistan": "Jamaica"
+    },
+    {
+        "afg": "JPN",
+        "afganistan": "Japón"
+    },
+    {
+        "afg": "JEY",
+        "afganistan": "Jersey"
+    },
+    {
+        "afg": "JOR",
+        "afganistan": "Jordania"
+    },
+    {
+        "afg": "KAZ",
+        "afganistan": "Kazajistán"
+    },
+    {
+        "afg": "KEN",
+        "afganistan": "Kenia"
+    },
+    {
+        "afg": "KGZ",
+        "afganistan": "Kirguistán"
+    },
+    {
+        "afg": "KIR",
+        "afganistan": "Kiribati"
+    },
+    {
+        "afg": "KWT",
+        "afganistan": "Kuwait"
+    },
+    {
+        "afg": "LAO",
+        "afganistan": "Lao, (la) República Democrática Popular"
+    },
+    {
+        "afg": "LSO",
+        "afganistan": "Lesoto"
+    },
+    {
+        "afg": "LVA",
+        "afganistan": "Letonia"
+    },
+    {
+        "afg": "LBN",
+        "afganistan": "Líbano"
+    },
+    {
+        "afg": "LBR",
+        "afganistan": "Liberia"
+    },
+    {
+        "afg": "LBY",
+        "afganistan": "Libia"
+    },
+    {
+        "afg": "LIE",
+        "afganistan": "Liechtenstein"
+    },
+    {
+        "afg": "LTU",
+        "afganistan": "Lituania"
+    },
+    {
+        "afg": "LUX",
+        "afganistan": "Luxemburgo"
+    },
+    {
+        "afg": "MAC",
+        "afganistan": "Macao"
+    },
+    {
+        "afg": "MDG",
+        "afganistan": "Madagascar"
+    },
+    {
+        "afg": "MYS",
+        "afganistan": "Malasia"
+    },
+    {
+        "afg": "MWI",
+        "afganistan": "Malaui"
+    },
+    {
+        "afg": "MDV",
+        "afganistan": "Maldivas"
+    },
+    {
+        "afg": "MLI",
+        "afganistan": "Malí"
+    },
+    {
+        "afg": "MLT",
+        "afganistan": "Malta"
+    },
+    {
+        "afg": "MAR",
+        "afganistan": "Marruecos"
+    },
+    {
+        "afg": "MTQ",
+        "afganistan": "Martinica"
+    },
+    {
+        "afg": "MUS",
+        "afganistan": "Mauricio"
+    },
+    {
+        "afg": "MRT",
+        "afganistan": "Mauritania"
+    },
+    {
+        "afg": "MYT",
+        "afganistan": "Mayotte"
+    },
+    {
+        "afg": "MEX",
+        "afganistan": "México"
+    },
+    {
+        "afg": "FSM",
+        "afganistan": "Micronesia (los Estados Federados de)"
+    },
+    {
+        "afg": "MDA",
+        "afganistan": "Moldavia (la República de)"
+    },
+    {
+        "afg": "MCO",
+        "afganistan": "Mónaco"
+    },
+    {
+        "afg": "MNG",
+        "afganistan": "Mongolia"
+    },
+    {
+        "afg": "MNE",
+        "afganistan": "Montenegro"
+    },
+    {
+        "afg": "MSR",
+        "afganistan": "Montserrat"
+    },
+    {
+        "afg": "MOZ",
+        "afganistan": "Mozambique"
+    },
+    {
+        "afg": "NAM",
+        "afganistan": "Namibia"
+    },
+    {
+        "afg": "NRU",
+        "afganistan": "Nauru"
+    },
+    {
+        "afg": "NPL",
+        "afganistan": "Nepal"
+    },
+    {
+        "afg": "NIC",
+        "afganistan": "Nicaragua"
+    },
+    {
+        "afg": "NER",
+        "afganistan": "Níger (el)"
+    },
+    {
+        "afg": "NGA",
+        "afganistan": "Nigeria"
+    },
+    {
+        "afg": "NIU",
+        "afganistan": "Niue"
+    },
+    {
+        "afg": "NOR",
+        "afganistan": "Noruega"
+    },
+    {
+        "afg": "NCL",
+        "afganistan": "Nueva Caledonia"
+    },
+    {
+        "afg": "NZL",
+        "afganistan": "Nueva Zelanda"
+    },
+    {
+        "afg": "OMN",
+        "afganistan": "Omán"
+    },
+    {
+        "afg": "NLD",
+        "afganistan": "Países Bajos (los)"
+    },
+    {
+        "afg": "PAK",
+        "afganistan": "Pakistán"
+    },
+    {
+        "afg": "PLW",
+        "afganistan": "Palaos"
+    },
+    {
+        "afg": "PSE",
+        "afganistan": "Palestina, Estado de"
+    },
+    {
+        "afg": "PAN",
+        "afganistan": "Panamá"
+    },
+    {
+        "afg": "PNG",
+        "afganistan": "Papúa Nueva Guinea"
+    },
+    {
+        "afg": "PRY",
+        "afganistan": "Paraguay"
+    },
+    {
+        "afg": "PER",
+        "afganistan": "Perú"
+    },
+    {
+        "afg": "PYF",
+        "afganistan": "Polinesia Francesa"
+    },
+    {
+        "afg": "POL",
+        "afganistan": "Polonia"
+    },
+    {
+        "afg": "PRT",
+        "afganistan": "Portugal"
+    },
+    {
+        "afg": "PRI",
+        "afganistan": "Puerto Rico"
+    },
+    {
+        "afg": "GBR",
+        "afganistan": "Reino Unido (el)"
+    },
+    {
+        "afg": "CAF",
+        "afganistan": "República Centroafricana (la)"
+    },
+    {
+        "afg": "CZE",
+        "afganistan": "República Checa (la)"
+    },
+    {
+        "afg": "MKD",
+        "afganistan": "Macedonia (la antigua República Yugoslava de)"
+    },
+    {
+        "afg": "COG",
+        "afganistan": "Congo"
+    },
+    {
+        "afg": "COD",
+        "afganistan": "Congo (la República Democrática del)"
+    },
+    {
+        "afg": "DOM",
+        "afganistan": "República Dominicana (la)"
+    },
+    {
+        "afg": "REU",
+        "afganistan": "Reunión"
+    },
+    {
+        "afg": "RWA",
+        "afganistan": "Ruanda"
+    },
+    {
+        "afg": "ROU",
+        "afganistan": "Rumania"
+    },
+    {
+        "afg": "RUS",
+        "afganistan": "Rusia, (la) Federación de"
+    },
+    {
+        "afg": "ESH",
+        "afganistan": "Sahara Occidental"
+    },
+    {
+        "afg": "WSM",
+        "afganistan": "Samoa"
+    },
+    {
+        "afg": "ASM",
+        "afganistan": "Samoa Americana"
+    },
+    {
+        "afg": "BLM",
+        "afganistan": "San Bartolomé"
+    },
+    {
+        "afg": "KNA",
+        "afganistan": "San Cristóbal y Nieves"
+    },
+    {
+        "afg": "SMR",
+        "afganistan": "San Marino"
+    },
+    {
+        "afg": "MAF",
+        "afganistan": "San Martín (parte francesa)"
+    },
+    {
+        "afg": "SPM",
+        "afganistan": "San Pedro y Miquelón"
+    },
+    {
+        "afg": "VCT",
+        "afganistan": "San Vicente y las Granadinas"
+    },
+    {
+        "afg": "SHN",
+        "afganistan": "Santa Helena, Ascensión y Tristán de Acuña"
+    },
+    {
+        "afg": "LCA",
+        "afganistan": "Santa Lucía"
+    },
+    {
+        "afg": "STP",
+        "afganistan": "Santo Tomé y Príncipe"
+    },
+    {
+        "afg": "SEN",
+        "afganistan": "Senegal"
+    },
+    {
+        "afg": "SRB",
+        "afganistan": "Serbia"
+    },
+    {
+        "afg": "SYC",
+        "afganistan": "Seychelles"
+    },
+    {
+        "afg": "SLE",
+        "afganistan": "Sierra leona"
+    },
+    {
+        "afg": "SGP",
+        "afganistan": "Singapur"
+    },
+    {
+        "afg": "SXM",
+        "afganistan": "Sint Maarten (parte holandesa)"
+    },
+    {
+        "afg": "SYR",
+        "afganistan": "Siria, (la) República Árabe"
+    },
+    {
+        "afg": "SOM",
+        "afganistan": "Somalia"
+    },
+    {
+        "afg": "LKA",
+        "afganistan": "Sri Lanka"
+    },
+    {
+        "afg": "SWZ",
+        "afganistan": "Suazilandia"
+    },
+    {
+        "afg": "ZAF",
+        "afganistan": "Sudáfrica"
+    },
+    {
+        "afg": "SDN",
+        "afganistan": "Sudán (el)"
+    },
+    {
+        "afg": "SSD",
+        "afganistan": "Sudán del Sur"
+    },
+    {
+        "afg": "SWE",
+        "afganistan": "Suecia"
+    },
+    {
+        "afg": "CHE",
+        "afganistan": "Suiza"
+    },
+    {
+        "afg": "SUR",
+        "afganistan": "Surinam"
+    },
+    {
+        "afg": "SJM",
+        "afganistan": "Svalbard y Jan Mayen"
+    },
+    {
+        "afg": "THA",
+        "afganistan": "Tailandia"
+    },
+    {
+        "afg": "TWN",
+        "afganistan": "Taiwán (Provincia de China)"
+    },
+    {
+        "afg": "TZA",
+        "afganistan": "Tanzania, República Unida de"
+    },
+    {
+        "afg": "TJK",
+        "afganistan": "Tayikistán"
+    },
+    {
+        "afg": "IOT",
+        "afganistan": "Territorio Británico del Océano Índico (el)"
+    },
+    {
+        "afg": "ATF",
+        "afganistan": "Territorios Australes Franceses (los)"
+    },
+    {
+        "afg": "TLS",
+        "afganistan": "Timor-Leste"
+    },
+    {
+        "afg": "TGO",
+        "afganistan": "Togo"
+    },
+    {
+        "afg": "TKL",
+        "afganistan": "Tokelau"
+    },
+    {
+        "afg": "TON",
+        "afganistan": "Tonga"
+    },
+    {
+        "afg": "TTO",
+        "afganistan": "Trinidad y Tobago"
+    },
+    {
+        "afg": "TUN",
+        "afganistan": "Túnez"
+    },
+    {
+        "afg": "TKM",
+        "afganistan": "Turkmenistán"
+    },
+    {
+        "afg": "TUR",
+        "afganistan": "Turquía"
+    },
+    {
+        "afg": "TUV",
+        "afganistan": "Tuvalu"
+    },
+    {
+        "afg": "UKR",
+        "afganistan": "Ucrania"
+    },
+    {
+        "afg": "UGA",
+        "afganistan": "Uganda"
+    },
+    {
+        "afg": "URY",
+        "afganistan": "Uruguay"
+    },
+    {
+        "afg": "UZB",
+        "afganistan": "Uzbekistán"
+    },
+    {
+        "afg": "VUT",
+        "afganistan": "Vanuatu"
+    },
+    {
+        "afg": "VAT",
+        "afganistan": "Santa Sede[Estado de la Ciudad del Vaticano] (la)"
+    },
+    {
+        "afg": "VEN",
+        "afganistan": "Venezuela, República Bolivariana de"
+    },
+    {
+        "afg": "VNM",
+        "afganistan": "Viet Nam"
+    },
+    {
+        "afg": "WLF",
+        "afganistan": "Wallis y Futuna"
+    },
+    {
+        "afg": "YEM",
+        "afganistan": "Yemen"
+    },
+    {
+        "afg": "DJI",
+        "afganistan": "Yibuti"
+    },
+    {
+        "afg": "ZMB",
+        "afganistan": "Zambia"
+    },
+    {
+        "afg": "ZWE",
+        "afganistan": "Zimbabue"
+    },
+    {
+        "afg": "ZZZ",
+        "afganistan": "Países no declarados"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "44562": 44562,
+        "01": "02",
+        "no_aplica": "Definitiva con clave A1"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "no_aplica": "Temporal"
+    },
+    {
+        "44562": 44617,
+        "01": "04",
+        "no_aplica": "Definitiva con clave distinta a A1 o cuando no existe enajenación en términos del CFF"
+    }
+]

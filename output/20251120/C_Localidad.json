@@ -1,0 +1,3980 @@
+[
+    {
+        "44562": 44562,
+        "01": "01",
+        "agu": "BCN",
+        "aguascalientes": "Ensenada"
+    },
+    {
+        "44562": 44562,
+        "01": "01",
+        "agu": "BCS",
+        "aguascalientes": "Ciudad Constitución"
+    },
+    {
+        "44562": 44562,
+        "01": "01",
+        "agu": "CAM",
+        "aguascalientes": "San Francisco de Campeche"
+    },
+    {
+        "44562": 44562,
+        "01": "01",
+        "agu": "COA",
+        "aguascalientes": "Ciudad Acuña"
+    },
+    {
+        "44562": 44562,
+        "01": "01",
+        "agu": "COL",
+        "aguascalientes": "Colima"
+    },
+    {
+        "44562": 44562,
+        "01": "01",
+        "agu": "CHH",
+        "aguascalientes": "Santa Rosalía de Camargo"
+    },
+    {
+        "44562": 44562,
+        "01": "01",
+        "agu": "CHP",
+        "aguascalientes": "Comitán de Domínguez"
+    },
+    {
+        "44562": 44562,
+        "01": "01",
+        "agu": "CMX",
+        "aguascalientes": "Ciudad de México"
+    },
+    {
+        "44562": 44562,
+        "01": "01",
+        "agu": "DUR",
+        "aguascalientes": "Victoria de Durango"
+    },
+    {
+        "44562": 44562,
+        "01": "01",
+        "agu": "GRO",
+        "aguascalientes": "Acapulco de Juárez"
+    },
+    {
+        "44562": 44562,
+        "01": "01",
+        "agu": "GUA",
+        "aguascalientes": "Acámbaro"
+    },
+    {
+        "44562": 44562,
+        "01": "01",
+        "agu": "HID",
+        "aguascalientes": "Actopan"
+    },
+    {
+        "44562": 44562,
+        "01": "01",
+        "agu": "JAL",
+        "aguascalientes": "Ameca"
+    },
+    {
+        "44562": 44562,
+        "01": "01",
+        "agu": "MEX",
+        "aguascalientes": "Ciudad Adolfo López Mateos"
+    },
+    {
+        "44562": 44562,
+        "01": "01",
+        "agu": "MIC",
+        "aguascalientes": "Apatzingán de la Constitución"
+    },
+    {
+        "44562": 44562,
+        "01": "01",
+        "agu": "MOR",
+        "aguascalientes": "Cuautla (Cuautla de Morelos)"
+    },
+    {
+        "44562": 44562,
+        "01": "01",
+        "agu": "NAY",
+        "aguascalientes": "Santiago Ixcuintla"
+    },
+    {
+        "44562": 44562,
+        "01": "01",
+        "agu": "NLE",
+        "aguascalientes": "Ciudad Apodaca"
+    },
+    {
+        "44562": 44562,
+        "01": "01",
+        "agu": "OAX",
+        "aguascalientes": "Juchitán (Juchitán de Zaragoza)"
+    },
+    {
+        "44562": 44562,
+        "01": "01",
+        "agu": "PUE",
+        "aguascalientes": "Atlixco"
+    },
+    {
+        "44562": 44562,
+        "01": "01",
+        "agu": "QUE",
+        "aguascalientes": "Querétaro"
+    },
+    {
+        "44562": 44562,
+        "01": "01",
+        "agu": "ROO",
+        "aguascalientes": "Cancún"
+    },
+    {
+        "44562": 44562,
+        "01": "01",
+        "agu": "SIN",
+        "aguascalientes": "Los Mochis"
+    },
+    {
+        "44562": 44562,
+        "01": "01",
+        "agu": "SLP",
+        "aguascalientes": "Ciudad Valles"
+    },
+    {
+        "44562": 44562,
+        "01": "01",
+        "agu": "SON",
+        "aguascalientes": "San Luis Río Colorado"
+    },
+    {
+        "44562": 44562,
+        "01": "01",
+        "agu": "TAB",
+        "aguascalientes": "Cárdenas"
+    },
+    {
+        "44562": 44562,
+        "01": "01",
+        "agu": "TAM",
+        "aguascalientes": "Altamira"
+    },
+    {
+        "44562": 44562,
+        "01": "01",
+        "agu": "TLA",
+        "aguascalientes": "Apizaco"
+    },
+    {
+        "44562": 44562,
+        "01": "01",
+        "agu": "VER",
+        "aguascalientes": "Acayucan"
+    },
+    {
+        "44562": 44562,
+        "01": "01",
+        "agu": "YUC",
+        "aguascalientes": "Mérida"
+    },
+    {
+        "44562": 44562,
+        "01": "01",
+        "agu": "ZAC",
+        "aguascalientes": "Fresnillo"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "AGU",
+        "aguascalientes": "Calvillo"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "BCN",
+        "aguascalientes": "Mexicali"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "BCS",
+        "aguascalientes": "La Paz"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "CAM",
+        "aguascalientes": "Ciudad del Carmen"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "COA",
+        "aguascalientes": "Frontera"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "COL",
+        "aguascalientes": "Manzanillo"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "CHH",
+        "aguascalientes": "Chihuahua"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "CHP",
+        "aguascalientes": "San Cristóbal de las Casas"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "CMX",
+        "aguascalientes": "Ciudad de México"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "DUR",
+        "aguascalientes": "Gómez Palacio"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "GRO",
+        "aguascalientes": "Chilpancingo de los Bravo"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "GUA",
+        "aguascalientes": "San miguel de Allende"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "HID",
+        "aguascalientes": "Apan"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "JAL",
+        "aguascalientes": "Ciudad Guzmán"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "MEX",
+        "aguascalientes": "Chimalhuacán"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "MIC",
+        "aguascalientes": "Los Reyes de Salgado"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "MOR",
+        "aguascalientes": "Cuernavaca"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "NAY",
+        "aguascalientes": "Tepic"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "NLE",
+        "aguascalientes": "San Pedro Garza García"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "OAX",
+        "aguascalientes": "Oaxaca de Juárez"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "PUE",
+        "aguascalientes": "Izúcar de Matamoros"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "QUE",
+        "aguascalientes": "San Juan del Rio"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "ROO",
+        "aguascalientes": "Cozumel"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "SIN",
+        "aguascalientes": "Culiacán Rosales"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "SLP",
+        "aguascalientes": "Ébano"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "SON",
+        "aguascalientes": "Agua Prieta"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "TAB",
+        "aguascalientes": "Villahermosa"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "TAM",
+        "aguascalientes": "Ciudad Camargo"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "TLA",
+        "aguascalientes": "Villa Vicente Guerrero"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "VER",
+        "aguascalientes": "Naranjos"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "YUC",
+        "aguascalientes": "Tizimín"
+    },
+    {
+        "44562": 44562,
+        "01": "02",
+        "agu": "ZAC",
+        "aguascalientes": "Jerez de García Salinas"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "agu": "AGU",
+        "aguascalientes": "San Francisco de los Romo"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "agu": "BCN",
+        "aguascalientes": "Tecate"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "agu": "BCS",
+        "aguascalientes": "Cabo San Lucas"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "agu": "CAM",
+        "aguascalientes": "Calkiní"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "agu": "COA",
+        "aguascalientes": "Matamoros"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "agu": "COL",
+        "aguascalientes": "Tecoman"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "agu": "CHH",
+        "aguascalientes": "Cuauhtémoc"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "agu": "CHP",
+        "aguascalientes": "Tapachula de Córdova y Ordóñez"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "agu": "CMX",
+        "aguascalientes": "Ciudad de México"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "agu": "DUR",
+        "aguascalientes": "Ciudad Lerdo"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "agu": "GRO",
+        "aguascalientes": "Iguala de la Independencia"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "agu": "GUA",
+        "aguascalientes": "Celaya"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "agu": "HID",
+        "aguascalientes": "Pachuca de Soto"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "agu": "JAL",
+        "aguascalientes": "Guadalajara"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "agu": "MEX",
+        "aguascalientes": "Coacalco de Berriozabal"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "agu": "MIC",
+        "aguascalientes": "Ciudad Hidalgo"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "agu": "MOR",
+        "aguascalientes": "Galeana"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "agu": "NAY",
+        "aguascalientes": "Tuxpan"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "agu": "NLE",
+        "aguascalientes": "Ciudad General Escobedo"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "agu": "OAX",
+        "aguascalientes": "Salina Cruz"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "agu": "PUE",
+        "aguascalientes": "Puebla (Heroica Puebla)"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "agu": "ROO",
+        "aguascalientes": "Felipe Carrillo Puerto"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "agu": "SIN",
+        "aguascalientes": "Escuinapa de Hidalgo"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "agu": "SLP",
+        "aguascalientes": "Matehuala"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "agu": "SON",
+        "aguascalientes": "Heroica Caborca"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "agu": "TAB",
+        "aguascalientes": "Comalcalco"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "agu": "TAM",
+        "aguascalientes": "Ciudad Madero"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "agu": "TLA",
+        "aguascalientes": "Tlaxcala (Tlaxcala de Xicotencatl)"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "agu": "VER",
+        "aguascalientes": "Boca del RÍo"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "agu": "YUC",
+        "aguascalientes": "Ticul"
+    },
+    {
+        "44562": 44562,
+        "01": "03",
+        "agu": "ZAC",
+        "aguascalientes": "Zacatecas"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "AGU",
+        "aguascalientes": "Jesús María"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "BCN",
+        "aguascalientes": "Tijuana"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "BCS",
+        "aguascalientes": "San José del Cabo"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "CAM",
+        "aguascalientes": "Candelaria"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "COA",
+        "aguascalientes": "Monclova"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "COL",
+        "aguascalientes": "Ciudad de Villa de Álvarez"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "CHH",
+        "aguascalientes": "Delicias"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "CHP",
+        "aguascalientes": "Tuxtla Gutiérrez"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "CMX",
+        "aguascalientes": "Ciudad de México"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "DUR",
+        "aguascalientes": "Santiago Papasquiaro"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "GRO",
+        "aguascalientes": "Taxco de Alarcón"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "GUA",
+        "aguascalientes": "Cortazar"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "HID",
+        "aguascalientes": "Cd. de Fray Bernardino de Sahagún"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "JAL",
+        "aguascalientes": "Lagos de Moreno"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "MEX",
+        "aguascalientes": "Cuautitlán Izcalli"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "MIC",
+        "aguascalientes": "Jacona de Plancarte"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "MOR",
+        "aguascalientes": "Jojutla"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "NAY",
+        "aguascalientes": "Acaponeta"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "NLE",
+        "aguascalientes": "Guadalupe"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "OAX",
+        "aguascalientes": "San Juan Bautista Tuxtepec"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "PUE",
+        "aguascalientes": "San Martín Texmelucan de Labastida"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "QUE",
+        "aguascalientes": "El Pueblito"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "ROO",
+        "aguascalientes": "Chetumal"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "SIN",
+        "aguascalientes": "Guasave"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "SLP",
+        "aguascalientes": "Rioverde"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "SON",
+        "aguascalientes": "Ciudad Obregón"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "TAB",
+        "aguascalientes": "Emiliano Zapata"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "TAM",
+        "aguascalientes": "Ciudad Mante"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "TLA",
+        "aguascalientes": "Huamantla"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "VER",
+        "aguascalientes": "Coatepec"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "YUC",
+        "aguascalientes": "Motul de Carrillo Puerto"
+    },
+    {
+        "44562": 44562,
+        "01": "04",
+        "agu": "ZAC",
+        "aguascalientes": "Guadalupe"
+    },
+    {
+        "44562": 44562,
+        "01": "05",
+        "agu": "AGU",
+        "aguascalientes": "Pabellón de Arteaga"
+    },
+    {
+        "44562": 44562,
+        "01": "05",
+        "agu": "BCN",
+        "aguascalientes": "Playas de Rosarito"
+    },
+    {
+        "44562": 44562,
+        "01": "05",
+        "agu": "BCS",
+        "aguascalientes": "Loreto"
+    },
+    {
+        "44562": 44562,
+        "01": "05",
+        "agu": "CAM",
+        "aguascalientes": "Escárcega"
+    },
+    {
+        "44562": 44562,
+        "01": "05",
+        "agu": "COA",
+        "aguascalientes": "Parras de la Fuente"
+    },
+    {
+        "44562": 44562,
+        "01": "05",
+        "agu": "COL",
+        "aguascalientes": "Ciudad de Armería"
+    },
+    {
+        "44562": 44562,
+        "01": "05",
+        "agu": "CHH",
+        "aguascalientes": "Hidalgo del Parral"
+    },
+    {
+        "44562": 44562,
+        "01": "05",
+        "agu": "CHP",
+        "aguascalientes": "Venustiano Carranza"
+    },
+    {
+        "44562": 44562,
+        "01": "05",
+        "agu": "CMX",
+        "aguascalientes": "Ciudad de México"
+    },
+    {
+        "44562": 44562,
+        "01": "05",
+        "agu": "DUR",
+        "aguascalientes": "Canatlán"
+    },
+    {
+        "44562": 44562,
+        "01": "05",
+        "agu": "GRO",
+        "aguascalientes": "Arcelia"
+    },
+    {
+        "44562": 44562,
+        "01": "05",
+        "agu": "GUA",
+        "aguascalientes": "Guanajuato"
+    },
+    {
+        "44562": 44562,
+        "01": "05",
+        "agu": "HID",
+        "aguascalientes": "Tula de Allende"
+    },
+    {
+        "44562": 44562,
+        "01": "05",
+        "agu": "JAL",
+        "aguascalientes": "Ocotlán"
+    },
+    {
+        "44562": 44562,
+        "01": "05",
+        "agu": "MEX",
+        "aguascalientes": "Ecatepec de Morelos"
+    },
+    {
+        "44562": 44562,
+        "01": "05",
+        "agu": "MIC",
+        "aguascalientes": "La piedad de Cabadas"
+    },
+    {
+        "44562": 44562,
+        "01": "05",
+        "agu": "MOR",
+        "aguascalientes": "Puente de Ixtla"
+    },
+    {
+        "44562": 44562,
+        "01": "05",
+        "agu": "NAY",
+        "aguascalientes": "Tecuala"
+    },
+    {
+        "44562": 44562,
+        "01": "05",
+        "agu": "NLE",
+        "aguascalientes": "Linares"
+    },
+    {
+        "44562": 44562,
+        "01": "05",
+        "agu": "OAX",
+        "aguascalientes": "Matías Romero Avendaño"
+    },
+    {
+        "44562": 44562,
+        "01": "05",
+        "agu": "PUE",
+        "aguascalientes": "Tehuacan"
+    },
+    {
+        "44562": 44562,
+        "01": "05",
+        "agu": "ROO",
+        "aguascalientes": "Playa del Carmen"
+    },
+    {
+        "44562": 44562,
+        "01": "05",
+        "agu": "SIN",
+        "aguascalientes": "Mazatlán"
+    },
+    {
+        "44562": 44562,
+        "01": "05",
+        "agu": "SLP",
+        "aguascalientes": "San Luis Potosí"
+    },
+    {
+        "44562": 44562,
+        "01": "05",
+        "agu": "SON",
+        "aguascalientes": "Empalme"
+    },
+    {
+        "44562": 44562,
+        "01": "05",
+        "agu": "TAB",
+        "aguascalientes": "Jalpa de Méndez"
+    },
+    {
+        "44562": 44562,
+        "01": "05",
+        "agu": "TAM",
+        "aguascalientes": "Heroica Matamoros"
+    },
+    {
+        "44562": 44562,
+        "01": "05",
+        "agu": "TLA",
+        "aguascalientes": "Calpulalpan"
+    },
+    {
+        "44562": 44562,
+        "01": "05",
+        "agu": "VER",
+        "aguascalientes": "Agua dulce"
+    },
+    {
+        "44562": 44562,
+        "01": "05",
+        "agu": "YUC",
+        "aguascalientes": "Valladolid"
+    },
+    {
+        "44562": 44562,
+        "01": "05",
+        "agu": "ZAC",
+        "aguascalientes": "Río Grande"
+    },
+    {
+        "44562": 44562,
+        "01": "06",
+        "agu": "AGU",
+        "aguascalientes": "Rincón de Romos"
+    },
+    {
+        "44562": 44562,
+        "01": "06",
+        "agu": "BCN",
+        "aguascalientes": "Rodolfo Sánchez T. (Maneadero)"
+    },
+    {
+        "44562": 44562,
+        "01": "06",
+        "agu": "BCS",
+        "aguascalientes": "Puerto Adolfo López Mateos"
+    },
+    {
+        "44562": 44562,
+        "01": "06",
+        "agu": "CAM",
+        "aguascalientes": "Sabancuy"
+    },
+    {
+        "44562": 44562,
+        "01": "06",
+        "agu": "COA",
+        "aguascalientes": "Piedras Negras"
+    },
+    {
+        "44562": 44562,
+        "01": "06",
+        "agu": "CHH",
+        "aguascalientes": "Juárez"
+    },
+    {
+        "44562": 44562,
+        "01": "06",
+        "agu": "CHP",
+        "aguascalientes": "Jiquipilas"
+    },
+    {
+        "44562": 44562,
+        "01": "06",
+        "agu": "CMX",
+        "aguascalientes": "Ciudad de México"
+    },
+    {
+        "44562": 44562,
+        "01": "06",
+        "agu": "DUR",
+        "aguascalientes": "San Juan del Río del Centauro del Norte"
+    },
+    {
+        "44562": 44562,
+        "01": "06",
+        "agu": "GRO",
+        "aguascalientes": "Ayutla de los Libres"
+    },
+    {
+        "44562": 44562,
+        "01": "06",
+        "agu": "GUA",
+        "aguascalientes": "Irapuato"
+    },
+    {
+        "44562": 44562,
+        "01": "06",
+        "agu": "HID",
+        "aguascalientes": "Tulancingo"
+    },
+    {
+        "44562": 44562,
+        "01": "06",
+        "agu": "JAL",
+        "aguascalientes": "Puerto Vallarta"
+    },
+    {
+        "44562": 44562,
+        "01": "06",
+        "agu": "MEX",
+        "aguascalientes": "Huixquilucan de Degollado"
+    },
+    {
+        "44562": 44562,
+        "01": "06",
+        "agu": "MIC",
+        "aguascalientes": "Morelia"
+    },
+    {
+        "44562": 44562,
+        "01": "06",
+        "agu": "MOR",
+        "aguascalientes": "Santa Rosa Treinta"
+    },
+    {
+        "44562": 44562,
+        "01": "06",
+        "agu": "NAY",
+        "aguascalientes": "Compostela"
+    },
+    {
+        "44562": 44562,
+        "01": "06",
+        "agu": "NLE",
+        "aguascalientes": "Montemorelos"
+    },
+    {
+        "44562": 44562,
+        "01": "06",
+        "agu": "OAX",
+        "aguascalientes": "Heroica Ciudad de Huajuapan de León"
+    },
+    {
+        "44562": 44562,
+        "01": "06",
+        "agu": "PUE",
+        "aguascalientes": "Teziutlan"
+    },
+    {
+        "44562": 44562,
+        "01": "06",
+        "agu": "ROO",
+        "aguascalientes": "Kantunilkin"
+    },
+    {
+        "44562": 44562,
+        "01": "06",
+        "agu": "SIN",
+        "aguascalientes": "Guamúchil"
+    },
+    {
+        "44562": 44562,
+        "01": "06",
+        "agu": "SLP",
+        "aguascalientes": "Soledad de Graciano Sánchez"
+    },
+    {
+        "44562": 44562,
+        "01": "06",
+        "agu": "SON",
+        "aguascalientes": "Heroica Guaymas"
+    },
+    {
+        "44562": 44562,
+        "01": "06",
+        "agu": "TAM",
+        "aguascalientes": "Nuevo Laredo"
+    },
+    {
+        "44562": 44562,
+        "01": "06",
+        "agu": "TLA",
+        "aguascalientes": "Chiautempan"
+    },
+    {
+        "44562": 44562,
+        "01": "06",
+        "agu": "VER",
+        "aguascalientes": "Coatzacoalcos"
+    },
+    {
+        "44562": 44562,
+        "01": "06",
+        "agu": "YUC",
+        "aguascalientes": "Kanasín"
+    },
+    {
+        "44562": 44562,
+        "01": "06",
+        "agu": "ZAC",
+        "aguascalientes": "Ciudad Cuauhtémoc"
+    },
+    {
+        "44562": 44562,
+        "01": "07",
+        "agu": "AGU",
+        "aguascalientes": "Asientos"
+    },
+    {
+        "44562": 44562,
+        "01": "07",
+        "agu": "BCN",
+        "aguascalientes": "San Felipe"
+    },
+    {
+        "44562": 44562,
+        "01": "07",
+        "agu": "BCS",
+        "aguascalientes": "Todos Santos"
+    },
+    {
+        "44562": 44562,
+        "01": "07",
+        "agu": "CAM",
+        "aguascalientes": "Hopelchén"
+    },
+    {
+        "44562": 44562,
+        "01": "07",
+        "agu": "COA",
+        "aguascalientes": "Sabinas"
+    },
+    {
+        "44562": 44562,
+        "01": "07",
+        "agu": "CHH",
+        "aguascalientes": "Nuevo Casas Grandes"
+    },
+    {
+        "44562": 44562,
+        "01": "07",
+        "agu": "CHP",
+        "aguascalientes": "Villaflores"
+    },
+    {
+        "44562": 44562,
+        "01": "07",
+        "agu": "CMX",
+        "aguascalientes": "Ciudad de México"
+    },
+    {
+        "44562": 44562,
+        "01": "07",
+        "agu": "DUR",
+        "aguascalientes": "Peñón Blanco"
+    },
+    {
+        "44562": 44562,
+        "01": "07",
+        "agu": "GRO",
+        "aguascalientes": "Atoyac de Álvarez"
+    },
+    {
+        "44562": 44562,
+        "01": "07",
+        "agu": "GUA",
+        "aguascalientes": "León de los Aldama"
+    },
+    {
+        "44562": 44562,
+        "01": "07",
+        "agu": "HID",
+        "aguascalientes": "Zimapan"
+    },
+    {
+        "44562": 44562,
+        "01": "07",
+        "agu": "JAL",
+        "aguascalientes": "San Juan de los Lagos"
+    },
+    {
+        "44562": 44562,
+        "01": "07",
+        "agu": "MEX",
+        "aguascalientes": "Los Reyes Acaquilpan (La Paz)"
+    },
+    {
+        "44562": 44562,
+        "01": "07",
+        "agu": "MIC",
+        "aguascalientes": "Pátzcuaro"
+    },
+    {
+        "44562": 44562,
+        "01": "07",
+        "agu": "MOR",
+        "aguascalientes": "Zacatepec de Hidalgo"
+    },
+    {
+        "44562": 44562,
+        "01": "07",
+        "agu": "NAY",
+        "aguascalientes": "Francisco I. Madero (Puga)"
+    },
+    {
+        "44562": 44562,
+        "01": "07",
+        "agu": "NLE",
+        "aguascalientes": "Monterrey"
+    },
+    {
+        "44562": 44562,
+        "01": "07",
+        "agu": "OAX",
+        "aguascalientes": "Loma Bonita"
+    },
+    {
+        "44562": 44562,
+        "01": "07",
+        "agu": "PUE",
+        "aguascalientes": "San Andrés Cholula"
+    },
+    {
+        "44562": 44562,
+        "01": "07",
+        "agu": "ROO",
+        "aguascalientes": "Isla Mujeres"
+    },
+    {
+        "44562": 44562,
+        "01": "07",
+        "agu": "SIN",
+        "aguascalientes": "Navolato"
+    },
+    {
+        "44562": 44562,
+        "01": "07",
+        "agu": "SLP",
+        "aguascalientes": "Charcas"
+    },
+    {
+        "44562": 44562,
+        "01": "07",
+        "agu": "SON",
+        "aguascalientes": "Hermosillo"
+    },
+    {
+        "44562": 44562,
+        "01": "07",
+        "agu": "TAB",
+        "aguascalientes": "Macuspana"
+    },
+    {
+        "44562": 44562,
+        "01": "07",
+        "agu": "TAM",
+        "aguascalientes": "Reynosa"
+    },
+    {
+        "44562": 44562,
+        "01": "07",
+        "agu": "VER",
+        "aguascalientes": "Córdoba"
+    },
+    {
+        "44562": 44562,
+        "01": "07",
+        "agu": "ZAC",
+        "aguascalientes": "Ojocaliente"
+    },
+    {
+        "44562": 44562,
+        "01": "08",
+        "agu": "AGU",
+        "aguascalientes": "Tepezalá"
+    },
+    {
+        "44562": 44562,
+        "01": "08",
+        "agu": "BCS",
+        "aguascalientes": "Heroica Mulegé"
+    },
+    {
+        "44562": 44562,
+        "01": "08",
+        "agu": "CAM",
+        "aguascalientes": "Champotón"
+    },
+    {
+        "44562": 44562,
+        "01": "08",
+        "agu": "COA",
+        "aguascalientes": "Saltillo"
+    },
+    {
+        "44562": 44562,
+        "01": "08",
+        "agu": "CHP",
+        "aguascalientes": "Las Margaritas"
+    },
+    {
+        "44562": 44562,
+        "01": "08",
+        "agu": "CMX",
+        "aguascalientes": "Ciudad de México"
+    },
+    {
+        "44562": 44562,
+        "01": "08",
+        "agu": "DUR",
+        "aguascalientes": "Francisco I. Madero"
+    },
+    {
+        "44562": 44562,
+        "01": "08",
+        "agu": "GUA",
+        "aguascalientes": "Moroleón"
+    },
+    {
+        "44562": 44562,
+        "01": "08",
+        "agu": "HID",
+        "aguascalientes": "Huejutla de Reyes"
+    },
+    {
+        "44562": 44562,
+        "01": "08",
+        "agu": "JAL",
+        "aguascalientes": "Tepatitlán de Morelos"
+    },
+    {
+        "44562": 44562,
+        "01": "08",
+        "agu": "MEX",
+        "aguascalientes": "Metepec"
+    },
+    {
+        "44562": 44562,
+        "01": "08",
+        "agu": "MIC",
+        "aguascalientes": "Sahuayo de Morelos"
+    },
+    {
+        "44562": 44562,
+        "01": "08",
+        "agu": "MOR",
+        "aguascalientes": "Tlaquiltenango"
+    },
+    {
+        "44562": 44562,
+        "01": "08",
+        "agu": "NAY",
+        "aguascalientes": "Villa Hidalgo (El Nuevo)"
+    },
+    {
+        "44562": 44562,
+        "01": "08",
+        "agu": "NLE",
+        "aguascalientes": "Ciudad Sabinas Hidalgo"
+    },
+    {
+        "44562": 44562,
+        "01": "08",
+        "agu": "OAX",
+        "aguascalientes": "Puerto Escondido"
+    },
+    {
+        "44562": 44562,
+        "01": "08",
+        "agu": "PUE",
+        "aguascalientes": "San Pedro Cholula"
+    },
+    {
+        "44562": 44562,
+        "01": "08",
+        "agu": "ROO",
+        "aguascalientes": "Bacalar"
+    },
+    {
+        "44562": 44562,
+        "01": "08",
+        "agu": "SIN",
+        "aguascalientes": "Quila"
+    },
+    {
+        "44562": 44562,
+        "01": "08",
+        "agu": "SLP",
+        "aguascalientes": "Salinas de Hidalgo"
+    },
+    {
+        "44562": 44562,
+        "01": "08",
+        "agu": "SON",
+        "aguascalientes": "Huatabampo"
+    },
+    {
+        "44562": 44562,
+        "01": "08",
+        "agu": "TAB",
+        "aguascalientes": "Tenosique de Pino Suárez"
+    },
+    {
+        "44562": 44562,
+        "01": "08",
+        "agu": "TAM",
+        "aguascalientes": "Ciudad Río Bravo"
+    },
+    {
+        "44562": 44562,
+        "01": "08",
+        "agu": "VER",
+        "aguascalientes": "Tres Valles"
+    },
+    {
+        "44562": 44562,
+        "01": "08",
+        "agu": "ZAC",
+        "aguascalientes": "Villa Hidalgo"
+    },
+    {
+        "44562": 44562,
+        "01": "09",
+        "agu": "AGU",
+        "aguascalientes": "Cosío"
+    },
+    {
+        "44562": 44562,
+        "01": "09",
+        "agu": "BCS",
+        "aguascalientes": "Villa Alberto Andrés Alvarado Arámburo"
+    },
+    {
+        "44562": 44562,
+        "01": "09",
+        "agu": "CAM",
+        "aguascalientes": "Hecelchakán"
+    },
+    {
+        "44562": 44562,
+        "01": "09",
+        "agu": "COA",
+        "aguascalientes": "Nueva Rosita"
+    },
+    {
+        "44562": 44562,
+        "01": "09",
+        "agu": "CHH",
+        "aguascalientes": "Madera"
+    },
+    {
+        "44562": 44562,
+        "01": "09",
+        "agu": "CHP",
+        "aguascalientes": "Arriaga"
+    },
+    {
+        "44562": 44562,
+        "01": "09",
+        "agu": "CMX",
+        "aguascalientes": "Ciudad de México"
+    },
+    {
+        "44562": 44562,
+        "01": "09",
+        "agu": "DUR",
+        "aguascalientes": "Nombre de Dios"
+    },
+    {
+        "44562": 44562,
+        "01": "09",
+        "agu": "GRO",
+        "aguascalientes": "San Jerónimo de Juárez"
+    },
+    {
+        "44562": 44562,
+        "01": "09",
+        "agu": "GUA",
+        "aguascalientes": "Salamanca"
+    },
+    {
+        "44562": 44562,
+        "01": "09",
+        "agu": "HID",
+        "aguascalientes": "Tlaxcoapan"
+    },
+    {
+        "44562": 44562,
+        "01": "09",
+        "agu": "JAL",
+        "aguascalientes": "Tlaquepaque"
+    },
+    {
+        "44562": 44562,
+        "01": "09",
+        "agu": "MEX",
+        "aguascalientes": "Naucalpan de Juárez"
+    },
+    {
+        "44562": 44562,
+        "01": "09",
+        "agu": "MIC",
+        "aguascalientes": "Uruapan"
+    },
+    {
+        "44562": 44562,
+        "01": "09",
+        "agu": "NAY",
+        "aguascalientes": "Ruiz"
+    },
+    {
+        "44562": 44562,
+        "01": "09",
+        "agu": "NLE",
+        "aguascalientes": "San Nicolás de los Garza"
+    },
+    {
+        "44562": 44562,
+        "01": "09",
+        "agu": "OAX",
+        "aguascalientes": "Río Grande o Piedra Parada"
+    },
+    {
+        "44562": 44562,
+        "01": "09",
+        "agu": "PUE",
+        "aguascalientes": "Huauchinango"
+    },
+    {
+        "44562": 44562,
+        "01": "09",
+        "agu": "SIN",
+        "aguascalientes": "Ahome"
+    },
+    {
+        "44562": 44562,
+        "01": "09",
+        "agu": "SLP",
+        "aguascalientes": "Cárdenas"
+    },
+    {
+        "44562": 44562,
+        "01": "09",
+        "agu": "SON",
+        "aguascalientes": "Navojoa"
+    },
+    {
+        "44562": 44562,
+        "01": "09",
+        "agu": "TAB",
+        "aguascalientes": "Teapa"
+    },
+    {
+        "44562": 44562,
+        "01": "09",
+        "agu": "TAM",
+        "aguascalientes": "San Fernando"
+    },
+    {
+        "44562": 44562,
+        "01": "09",
+        "agu": "VER",
+        "aguascalientes": "Jáltipan de Morelos"
+    },
+    {
+        "44562": 44562,
+        "01": "09",
+        "agu": "ZAC",
+        "aguascalientes": "Villanueva"
+    },
+    {
+        "44562": 44562,
+        "01": "10",
+        "agu": "BCS",
+        "aguascalientes": "San Ignacio"
+    },
+    {
+        "44562": 44562,
+        "01": "10",
+        "agu": "COA",
+        "aguascalientes": "San Pedro"
+    },
+    {
+        "44562": 44562,
+        "01": "10",
+        "agu": "CHH",
+        "aguascalientes": "Colonia Anáhuac"
+    },
+    {
+        "44562": 44562,
+        "01": "10",
+        "agu": "CHP",
+        "aguascalientes": "Palenque"
+    },
+    {
+        "44562": 44562,
+        "01": "10",
+        "agu": "CMX",
+        "aguascalientes": "Ciudad de México"
+    },
+    {
+        "44562": 44562,
+        "01": "10",
+        "agu": "DUR",
+        "aguascalientes": "Vicente Guerrero"
+    },
+    {
+        "44562": 44562,
+        "01": "10",
+        "agu": "GRO",
+        "aguascalientes": "Ciudad Apaxtla de Castrejón"
+    },
+    {
+        "44562": 44562,
+        "01": "10",
+        "agu": "GUA",
+        "aguascalientes": "San Francisco del Rincón"
+    },
+    {
+        "44562": 44562,
+        "01": "10",
+        "agu": "HID",
+        "aguascalientes": "Tizayuca"
+    },
+    {
+        "44562": 44562,
+        "01": "10",
+        "agu": "JAL",
+        "aguascalientes": "Zapopan"
+    },
+    {
+        "44562": 44562,
+        "01": "10",
+        "agu": "MEX",
+        "aguascalientes": "Ciudad Nezahualcoyotl"
+    },
+    {
+        "44562": 44562,
+        "01": "10",
+        "agu": "MIC",
+        "aguascalientes": "Zacapu"
+    },
+    {
+        "44562": 44562,
+        "01": "10",
+        "agu": "NAY",
+        "aguascalientes": "San Blas"
+    },
+    {
+        "44562": 44562,
+        "01": "10",
+        "agu": "NLE",
+        "aguascalientes": "Ciudad Santa Catarina"
+    },
+    {
+        "44562": 44562,
+        "01": "10",
+        "agu": "PUE",
+        "aguascalientes": "Acatlán de Osorio"
+    },
+    {
+        "44562": 44562,
+        "01": "10",
+        "agu": "SIN",
+        "aguascalientes": "Higuera de Zaragoza"
+    },
+    {
+        "44562": 44562,
+        "01": "10",
+        "agu": "SLP",
+        "aguascalientes": "Cerritos"
+    },
+    {
+        "44562": 44562,
+        "01": "10",
+        "agu": "SON",
+        "aguascalientes": "Heroica Nogales"
+    },
+    {
+        "44562": 44562,
+        "01": "10",
+        "agu": "TAB",
+        "aguascalientes": "Paraíso"
+    },
+    {
+        "44562": 44562,
+        "01": "10",
+        "agu": "TAM",
+        "aguascalientes": "Tampico"
+    },
+    {
+        "44562": 44562,
+        "01": "10",
+        "agu": "VER",
+        "aguascalientes": "Xalapa-Enríquez"
+    },
+    {
+        "44562": 44562,
+        "01": "10",
+        "agu": "ZAC",
+        "aguascalientes": "Villa de Cos"
+    },
+    {
+        "44562": 44562,
+        "01": "11",
+        "agu": "BCS",
+        "aguascalientes": "Guerrero Negro"
+    },
+    {
+        "44562": 44562,
+        "01": "11",
+        "agu": "CAM",
+        "aguascalientes": "Pomuch"
+    },
+    {
+        "44562": 44562,
+        "01": "11",
+        "agu": "COA",
+        "aguascalientes": "Torreón"
+    },
+    {
+        "44562": 44562,
+        "01": "11",
+        "agu": "CHH",
+        "aguascalientes": "Juan Aldama"
+    },
+    {
+        "44562": 44562,
+        "01": "11",
+        "agu": "CHP",
+        "aguascalientes": "Ocosingo"
+    },
+    {
+        "44562": 44562,
+        "01": "11",
+        "agu": "CMX",
+        "aguascalientes": "Ciudad de México"
+    },
+    {
+        "44562": 44562,
+        "01": "11",
+        "agu": "DUR",
+        "aguascalientes": "El Salto"
+    },
+    {
+        "44562": 44562,
+        "01": "11",
+        "agu": "GRO",
+        "aguascalientes": "Ciudad Altamirano"
+    },
+    {
+        "44562": 44562,
+        "01": "11",
+        "agu": "GUA",
+        "aguascalientes": "Silao"
+    },
+    {
+        "44562": 44562,
+        "01": "11",
+        "agu": "HID",
+        "aguascalientes": "Santiago Tulantepec"
+    },
+    {
+        "44562": 44562,
+        "01": "11",
+        "agu": "JAL",
+        "aguascalientes": "Tlajomulco de Zúñiga"
+    },
+    {
+        "44562": 44562,
+        "01": "11",
+        "agu": "MEX",
+        "aguascalientes": "Villa Nicolás Romero"
+    },
+    {
+        "44562": 44562,
+        "01": "11",
+        "agu": "MIC",
+        "aguascalientes": "Zamora de Hidalgo"
+    },
+    {
+        "44562": 44562,
+        "01": "11",
+        "agu": "NAY",
+        "aguascalientes": "Ixtlán del Río"
+    },
+    {
+        "44562": 44562,
+        "01": "11",
+        "agu": "NLE",
+        "aguascalientes": "Doctor Arroyo"
+    },
+    {
+        "44562": 44562,
+        "01": "11",
+        "agu": "OAX",
+        "aguascalientes": "Santiago Suchilquitongo"
+    },
+    {
+        "44562": 44562,
+        "01": "11",
+        "agu": "PUE",
+        "aguascalientes": "Cuautlancingo"
+    },
+    {
+        "44562": 44562,
+        "01": "11",
+        "agu": "SIN",
+        "aguascalientes": "Choix"
+    },
+    {
+        "44562": 44562,
+        "01": "11",
+        "agu": "SLP",
+        "aguascalientes": "Tamuín"
+    },
+    {
+        "44562": 44562,
+        "01": "11",
+        "agu": "SON",
+        "aguascalientes": "Puerto Peñasco"
+    },
+    {
+        "44562": 44562,
+        "01": "11",
+        "agu": "TAB",
+        "aguascalientes": "Frontera"
+    },
+    {
+        "44562": 44562,
+        "01": "11",
+        "agu": "TAM",
+        "aguascalientes": "Ciudad Victoria"
+    },
+    {
+        "44562": 44562,
+        "01": "11",
+        "agu": "VER",
+        "aguascalientes": "Minatitlán"
+    },
+    {
+        "44562": 44562,
+        "01": "11",
+        "agu": "ZAC",
+        "aguascalientes": "Nochistlán de Mejía"
+    },
+    {
+        "44562": 44562,
+        "01": "12",
+        "agu": "BCS",
+        "aguascalientes": "Santa Rosalía"
+    },
+    {
+        "44562": 44562,
+        "01": "12",
+        "agu": "COA",
+        "aguascalientes": "Castaños"
+    },
+    {
+        "44562": 44562,
+        "01": "12",
+        "agu": "CHH",
+        "aguascalientes": "José Mariano Jiménez"
+    },
+    {
+        "44562": 44562,
+        "01": "12",
+        "agu": "CHP",
+        "aguascalientes": "Tonalá"
+    },
+    {
+        "44562": 44562,
+        "01": "12",
+        "agu": "CMX",
+        "aguascalientes": "Ciudad de México"
+    },
+    {
+        "44562": 44562,
+        "01": "12",
+        "agu": "DUR",
+        "aguascalientes": "Santa María del Oro"
+    },
+    {
+        "44562": 44562,
+        "01": "12",
+        "agu": "GRO",
+        "aguascalientes": "Buenavista de Cuellar"
+    },
+    {
+        "44562": 44562,
+        "01": "12",
+        "agu": "GUA",
+        "aguascalientes": "Jerécuaro"
+    },
+    {
+        "44562": 44562,
+        "01": "12",
+        "agu": "HID",
+        "aguascalientes": "Ixmiquilpan"
+    },
+    {
+        "44562": 44562,
+        "01": "12",
+        "agu": "JAL",
+        "aguascalientes": "Tonalá"
+    },
+    {
+        "44562": 44562,
+        "01": "12",
+        "agu": "MEX",
+        "aguascalientes": "Tecamac de Felipe Villanueva"
+    },
+    {
+        "44562": 44562,
+        "01": "12",
+        "agu": "MIC",
+        "aguascalientes": "Heroica Zitácuaro"
+    },
+    {
+        "44562": 44562,
+        "01": "12",
+        "agu": "NAY",
+        "aguascalientes": "Bucerías"
+    },
+    {
+        "44562": 44562,
+        "01": "12",
+        "agu": "NLE",
+        "aguascalientes": "Ciénega de Flores"
+    },
+    {
+        "44562": 44562,
+        "01": "12",
+        "agu": "OAX",
+        "aguascalientes": "San Felipe Jalapa de Díaz"
+    },
+    {
+        "44562": 44562,
+        "01": "12",
+        "agu": "PUE",
+        "aguascalientes": "Tepeaca"
+    },
+    {
+        "44562": 44562,
+        "01": "12",
+        "agu": "SIN",
+        "aguascalientes": "Villa Unión"
+    },
+    {
+        "44562": 44562,
+        "01": "12",
+        "agu": "SLP",
+        "aguascalientes": "Tamasopo"
+    },
+    {
+        "44562": 44562,
+        "01": "12",
+        "agu": "SON",
+        "aguascalientes": "Heroica Ciudad de Cananea"
+    },
+    {
+        "44562": 44562,
+        "01": "12",
+        "agu": "TAB",
+        "aguascalientes": "Cunduacán"
+    },
+    {
+        "44562": 44562,
+        "01": "12",
+        "agu": "TAM",
+        "aguascalientes": "González"
+    },
+    {
+        "44562": 44562,
+        "01": "12",
+        "agu": "VER",
+        "aguascalientes": "Orizaba"
+    },
+    {
+        "44562": 44562,
+        "01": "12",
+        "agu": "ZAC",
+        "aguascalientes": "Víctor Rosales"
+    },
+    {
+        "44562": 44562,
+        "01": "13",
+        "agu": "COA",
+        "aguascalientes": "Francisco I. Madero (Chávez)"
+    },
+    {
+        "44562": 44562,
+        "01": "13",
+        "agu": "CHH",
+        "aguascalientes": "Manuel Ojinaga"
+    },
+    {
+        "44562": 44562,
+        "01": "13",
+        "agu": "CHP",
+        "aguascalientes": "Mapastepec"
+    },
+    {
+        "44562": 44562,
+        "01": "13",
+        "agu": "CMX",
+        "aguascalientes": "Ciudad de México"
+    },
+    {
+        "44562": 44562,
+        "01": "13",
+        "agu": "GRO",
+        "aguascalientes": "Cutzamala de Pinzón"
+    },
+    {
+        "44562": 44562,
+        "01": "13",
+        "agu": "GUA",
+        "aguascalientes": "Santiago Maravatío"
+    },
+    {
+        "44562": 44562,
+        "01": "13",
+        "agu": "HID",
+        "aguascalientes": "Tepeji del Rio"
+    },
+    {
+        "44562": 44562,
+        "01": "13",
+        "agu": "JAL",
+        "aguascalientes": "Tuxpan"
+    },
+    {
+        "44562": 44562,
+        "01": "13",
+        "agu": "MEX",
+        "aguascalientes": "Tepotzotlán"
+    },
+    {
+        "44562": 44562,
+        "01": "13",
+        "agu": "MIC",
+        "aguascalientes": "Paracho de Verduzco"
+    },
+    {
+        "44562": 44562,
+        "01": "13",
+        "agu": "NAY",
+        "aguascalientes": "Las Varas"
+    },
+    {
+        "44562": 44562,
+        "01": "13",
+        "agu": "NLE",
+        "aguascalientes": "Hualahuises"
+    },
+    {
+        "44562": 44562,
+        "01": "13",
+        "agu": "OAX",
+        "aguascalientes": "Bahias de Huatulco"
+    },
+    {
+        "44562": 44562,
+        "01": "13",
+        "agu": "PUE",
+        "aguascalientes": "Tecamachalco"
+    },
+    {
+        "44562": 44562,
+        "01": "13",
+        "agu": "SIN",
+        "aguascalientes": "Sinaloa de Leyva"
+    },
+    {
+        "44562": 44562,
+        "01": "13",
+        "agu": "SLP",
+        "aguascalientes": "Ciudad del Maíz"
+    },
+    {
+        "44562": 44562,
+        "01": "13",
+        "agu": "SON",
+        "aguascalientes": "Sonoita"
+    },
+    {
+        "44562": 44562,
+        "01": "13",
+        "agu": "TAB",
+        "aguascalientes": "Huimanguillo"
+    },
+    {
+        "44562": 44562,
+        "01": "13",
+        "agu": "TAM",
+        "aguascalientes": "Jaumave"
+    },
+    {
+        "44562": 44562,
+        "01": "13",
+        "agu": "VER",
+        "aguascalientes": "Papantla de Olarte"
+    },
+    {
+        "44562": 44562,
+        "01": "13",
+        "agu": "ZAC",
+        "aguascalientes": "Valparaíso"
+    },
+    {
+        "44562": 44562,
+        "01": "14",
+        "agu": "COA",
+        "aguascalientes": "Cuatro Ciénegas de Carranza"
+    },
+    {
+        "44562": 44562,
+        "01": "14",
+        "agu": "CHH",
+        "aguascalientes": "Bachíniva"
+    },
+    {
+        "44562": 44562,
+        "01": "14",
+        "agu": "CHP",
+        "aguascalientes": "Las Rosas"
+    },
+    {
+        "44562": 44562,
+        "01": "14",
+        "agu": "CMX",
+        "aguascalientes": "Ciudad de México"
+    },
+    {
+        "44562": 44562,
+        "01": "14",
+        "agu": "GRO",
+        "aguascalientes": "Coyuca de Catalán"
+    },
+    {
+        "44562": 44562,
+        "01": "14",
+        "agu": "GUA",
+        "aguascalientes": "Romita"
+    },
+    {
+        "44562": 44562,
+        "01": "14",
+        "agu": "HID",
+        "aguascalientes": "Cruz Azul"
+    },
+    {
+        "44562": 44562,
+        "01": "14",
+        "agu": "JAL",
+        "aguascalientes": "Tototlán"
+    },
+    {
+        "44562": 44562,
+        "01": "14",
+        "agu": "MEX",
+        "aguascalientes": "Tlalnepantla de Baz"
+    },
+    {
+        "44562": 44562,
+        "01": "14",
+        "agu": "MIC",
+        "aguascalientes": "Tangancícuaro de Arista"
+    },
+    {
+        "44562": 44562,
+        "01": "14",
+        "agu": "NAY",
+        "aguascalientes": "Xalisco"
+    },
+    {
+        "44562": 44562,
+        "01": "14",
+        "agu": "OAX",
+        "aguascalientes": "Putla Villa de Guerrero"
+    },
+    {
+        "44562": 44562,
+        "01": "14",
+        "agu": "PUE",
+        "aguascalientes": "Zacatlán"
+    },
+    {
+        "44562": 44562,
+        "01": "14",
+        "agu": "SIN",
+        "aguascalientes": "Mocorito"
+    },
+    {
+        "44562": 44562,
+        "01": "14",
+        "agu": "SLP",
+        "aguascalientes": "Cedral"
+    },
+    {
+        "44562": 44562,
+        "01": "14",
+        "agu": "SON",
+        "aguascalientes": "Magdalena de Kino"
+    },
+    {
+        "44562": 44562,
+        "01": "14",
+        "agu": "TAM",
+        "aguascalientes": "Ciudad Gustavo Díaz Ordaz"
+    },
+    {
+        "44562": 44562,
+        "01": "14",
+        "agu": "VER",
+        "aguascalientes": "Poza Rica de Hidalgo"
+    },
+    {
+        "44562": 44562,
+        "01": "14",
+        "agu": "ZAC",
+        "aguascalientes": "Luis Moya"
+    },
+    {
+        "44562": 44562,
+        "01": "15",
+        "agu": "COA",
+        "aguascalientes": "Nadadores"
+    },
+    {
+        "44562": 44562,
+        "01": "15",
+        "agu": "CHH",
+        "aguascalientes": "Saucillo"
+    },
+    {
+        "44562": 44562,
+        "01": "15",
+        "agu": "CHP",
+        "aguascalientes": "Chiapa de Corzo"
+    },
+    {
+        "44562": 44562,
+        "01": "15",
+        "agu": "CMX",
+        "aguascalientes": "Ciudad de México"
+    },
+    {
+        "44562": 44562,
+        "01": "15",
+        "agu": "GRO",
+        "aguascalientes": "Tierra Colorada"
+    },
+    {
+        "44562": 44562,
+        "01": "15",
+        "agu": "GUA",
+        "aguascalientes": "Tarandacuao"
+    },
+    {
+        "44562": 44562,
+        "01": "15",
+        "agu": "HID",
+        "aguascalientes": "Tepeapulco"
+    },
+    {
+        "44562": 44562,
+        "01": "15",
+        "agu": "JAL",
+        "aguascalientes": "San Diego de Alejandría"
+    },
+    {
+        "44562": 44562,
+        "01": "15",
+        "agu": "MEX",
+        "aguascalientes": "Santa Maria Tultepec"
+    },
+    {
+        "44562": 44562,
+        "01": "15",
+        "agu": "MIC",
+        "aguascalientes": "Maravatío de Ocampo"
+    },
+    {
+        "44562": 44562,
+        "01": "15",
+        "agu": "NAY",
+        "aguascalientes": "San pedro Lagunillas"
+    },
+    {
+        "44562": 44562,
+        "01": "15",
+        "agu": "NLE",
+        "aguascalientes": "Cadereyta Jiménez"
+    },
+    {
+        "44562": 44562,
+        "01": "15",
+        "agu": "OAX",
+        "aguascalientes": "Cosolapa"
+    },
+    {
+        "44562": 44562,
+        "01": "15",
+        "agu": "PUE",
+        "aguascalientes": "Xicotepec"
+    },
+    {
+        "44562": 44562,
+        "01": "15",
+        "agu": "SIN",
+        "aguascalientes": "Angostura"
+    },
+    {
+        "44562": 44562,
+        "01": "15",
+        "agu": "SLP",
+        "aguascalientes": "Tierra Nueva"
+    },
+    {
+        "44562": 44562,
+        "01": "15",
+        "agu": "TAM",
+        "aguascalientes": "Estación Manuel (Úrsulo Galván)"
+    },
+    {
+        "44562": 44562,
+        "01": "15",
+        "agu": "VER",
+        "aguascalientes": "San Andrés Tuxtla"
+    },
+    {
+        "44562": 44562,
+        "01": "15",
+        "agu": "ZAC",
+        "aguascalientes": "Moyahua de Estrada"
+    },
+    {
+        "44562": 44562,
+        "01": "16",
+        "agu": "COA",
+        "aguascalientes": "Ramos Arizpe"
+    },
+    {
+        "44562": 44562,
+        "01": "16",
+        "agu": "CHP",
+        "aguascalientes": "Cacahoatán"
+    },
+    {
+        "44562": 44562,
+        "01": "16",
+        "agu": "CMX",
+        "aguascalientes": "Ciudad de México"
+    },
+    {
+        "44562": 44562,
+        "01": "16",
+        "agu": "GRO",
+        "aguascalientes": "Coyuca de Benítez"
+    },
+    {
+        "44562": 44562,
+        "01": "16",
+        "agu": "GUA",
+        "aguascalientes": "Huanímaro"
+    },
+    {
+        "44562": 44562,
+        "01": "16",
+        "agu": "JAL",
+        "aguascalientes": "La Resolana"
+    },
+    {
+        "44562": 44562,
+        "01": "16",
+        "agu": "MEX",
+        "aguascalientes": "Tultitlán de Mariano Escobedo"
+    },
+    {
+        "44562": 44562,
+        "01": "16",
+        "agu": "MIC",
+        "aguascalientes": "Zinapécuaro de Figueroa"
+    },
+    {
+        "44562": 44562,
+        "01": "16",
+        "agu": "NAY",
+        "aguascalientes": "La peñita de Jaltemba"
+    },
+    {
+        "44562": 44562,
+        "01": "16",
+        "agu": "OAX",
+        "aguascalientes": "Tlacolula de Matamoros"
+    },
+    {
+        "44562": 44562,
+        "01": "16",
+        "agu": "PUE",
+        "aguascalientes": "Ciudad Serdán"
+    },
+    {
+        "44562": 44562,
+        "01": "16",
+        "agu": "SIN",
+        "aguascalientes": "San Blas"
+    },
+    {
+        "44562": 44562,
+        "01": "16",
+        "agu": "SLP",
+        "aguascalientes": "Villa de Reyes"
+    },
+    {
+        "44562": 44562,
+        "01": "16",
+        "agu": "TAM",
+        "aguascalientes": "Xicoténcatl"
+    },
+    {
+        "44562": 44562,
+        "01": "16",
+        "agu": "VER",
+        "aguascalientes": "Túxpam de Rodríguez Cano"
+    },
+    {
+        "44562": 44562,
+        "01": "16",
+        "agu": "ZAC",
+        "aguascalientes": "Sombrerete"
+    },
+    {
+        "44562": 44562,
+        "01": "17",
+        "agu": "COA",
+        "aguascalientes": "Nava"
+    },
+    {
+        "44562": 44562,
+        "01": "17",
+        "agu": "CHP",
+        "aguascalientes": "Ocozocoautla de Espinosa"
+    },
+    {
+        "44562": 44562,
+        "01": "17",
+        "agu": "GRO",
+        "aguascalientes": "Olinalá"
+    },
+    {
+        "44562": 44562,
+        "01": "17",
+        "agu": "GUA",
+        "aguascalientes": "Comonfort"
+    },
+    {
+        "44562": 44562,
+        "01": "17",
+        "agu": "JAL",
+        "aguascalientes": "Atotonilco el Alto"
+    },
+    {
+        "44562": 44562,
+        "01": "17",
+        "agu": "MEX",
+        "aguascalientes": "Cuautitlán"
+    },
+    {
+        "44562": 44562,
+        "01": "17",
+        "agu": "MIC",
+        "aguascalientes": "Puruándiro"
+    },
+    {
+        "44562": 44562,
+        "01": "17",
+        "agu": "NAY",
+        "aguascalientes": "Jala"
+    },
+    {
+        "44562": 44562,
+        "01": "17",
+        "agu": "NLE",
+        "aguascalientes": "Santiago"
+    },
+    {
+        "44562": 44562,
+        "01": "17",
+        "agu": "OAX",
+        "aguascalientes": "San Pablo Villa de Mitla"
+    },
+    {
+        "44562": 44562,
+        "01": "17",
+        "agu": "PUE",
+        "aguascalientes": "Amozoc"
+    },
+    {
+        "44562": 44562,
+        "01": "17",
+        "agu": "SIN",
+        "aguascalientes": "La Cruz"
+    },
+    {
+        "44562": 44562,
+        "01": "17",
+        "agu": "SLP",
+        "aguascalientes": "Fracción el Refugio"
+    },
+    {
+        "44562": 44562,
+        "01": "17",
+        "agu": "TAM",
+        "aguascalientes": "Ciudad Miguel Alemán"
+    },
+    {
+        "44562": 44562,
+        "01": "17",
+        "agu": "VER",
+        "aguascalientes": "Veracruz"
+    },
+    {
+        "44562": 44562,
+        "01": "17",
+        "agu": "ZAC",
+        "aguascalientes": "Jalpa"
+    },
+    {
+        "44562": 44562,
+        "01": "18",
+        "agu": "COA",
+        "aguascalientes": "Zaragoza"
+    },
+    {
+        "44562": 44562,
+        "01": "18",
+        "agu": "CHP",
+        "aguascalientes": "Cintalapa de Figueroa"
+    },
+    {
+        "44562": 44562,
+        "01": "18",
+        "agu": "GRO",
+        "aguascalientes": "Marquelia"
+    },
+    {
+        "44562": 44562,
+        "01": "18",
+        "agu": "GUA",
+        "aguascalientes": "Uriangato"
+    },
+    {
+        "44562": 44562,
+        "01": "18",
+        "agu": "JAL",
+        "aguascalientes": "Jalostotitlán"
+    },
+    {
+        "44562": 44562,
+        "01": "18",
+        "agu": "MEX",
+        "aguascalientes": "Ixtapaluca"
+    },
+    {
+        "44562": 44562,
+        "01": "18",
+        "agu": "MIC",
+        "aguascalientes": "Yurécuaro"
+    },
+    {
+        "44562": 44562,
+        "01": "18",
+        "agu": "NAY",
+        "aguascalientes": "Ahuacatlán"
+    },
+    {
+        "44562": 44562,
+        "01": "18",
+        "agu": "NLE",
+        "aguascalientes": "El cercado"
+    },
+    {
+        "44562": 44562,
+        "01": "18",
+        "agu": "OAX",
+        "aguascalientes": "Natividad"
+    },
+    {
+        "44562": 44562,
+        "01": "18",
+        "agu": "SIN",
+        "aguascalientes": "El rosario"
+    },
+    {
+        "44562": 44562,
+        "01": "18",
+        "agu": "SLP",
+        "aguascalientes": "Tamazunchale"
+    },
+    {
+        "44562": 44562,
+        "01": "18",
+        "agu": "TAM",
+        "aguascalientes": "Soto la Marina"
+    },
+    {
+        "44562": 44562,
+        "01": "18",
+        "agu": "VER",
+        "aguascalientes": "Tierra Blanca"
+    },
+    {
+        "44562": 44562,
+        "01": "18",
+        "agu": "ZAC",
+        "aguascalientes": "Loreto"
+    },
+    {
+        "44562": 44562,
+        "01": "19",
+        "agu": "COA",
+        "aguascalientes": "San Buenaventura"
+    },
+    {
+        "44562": 44562,
+        "01": "19",
+        "agu": "CHP",
+        "aguascalientes": "Pichucalco"
+    },
+    {
+        "44562": 44562,
+        "01": "19",
+        "agu": "GRO",
+        "aguascalientes": "Zumpango del Río"
+    },
+    {
+        "44562": 44562,
+        "01": "19",
+        "agu": "GUA",
+        "aguascalientes": "Pénjamo"
+    },
+    {
+        "44562": 44562,
+        "01": "19",
+        "agu": "JAL",
+        "aguascalientes": "Poncitlán"
+    },
+    {
+        "44562": 44562,
+        "01": "19",
+        "agu": "MEX",
+        "aguascalientes": "Texcoco de Mora"
+    },
+    {
+        "44562": 44562,
+        "01": "19",
+        "agu": "MIC",
+        "aguascalientes": "Huetamo de Núñez"
+    },
+    {
+        "44562": 44562,
+        "01": "19",
+        "agu": "OAX",
+        "aguascalientes": "Teotitlán de Flores Magón"
+    },
+    {
+        "44562": 44562,
+        "01": "19",
+        "agu": "SIN",
+        "aguascalientes": "Estación Naranjo"
+    },
+    {
+        "44562": 44562,
+        "01": "19",
+        "agu": "SLP",
+        "aguascalientes": "Santa María del Río"
+    },
+    {
+        "44562": 44562,
+        "01": "19",
+        "agu": "TAM",
+        "aguascalientes": "Ciudad Tula"
+    },
+    {
+        "44562": 44562,
+        "01": "19",
+        "agu": "VER",
+        "aguascalientes": "Cosamaloapan"
+    },
+    {
+        "44562": 44562,
+        "01": "19",
+        "agu": "ZAC",
+        "aguascalientes": "Juan Aldama"
+    },
+    {
+        "44562": 44562,
+        "01": "20",
+        "agu": "COA",
+        "aguascalientes": "Ciudad Melchor Múzquiz"
+    },
+    {
+        "44562": 44562,
+        "01": "20",
+        "agu": "CHP",
+        "aguascalientes": "Puerto Madero (San Benito)"
+    },
+    {
+        "44562": 44562,
+        "01": "20",
+        "agu": "GRO",
+        "aguascalientes": "San Luis de la Loma"
+    },
+    {
+        "44562": 44562,
+        "01": "20",
+        "agu": "GUA",
+        "aguascalientes": "Cuerámaro"
+    },
+    {
+        "44562": 44562,
+        "01": "20",
+        "agu": "JAL",
+        "aguascalientes": "Arandas"
+    },
+    {
+        "44562": 44562,
+        "01": "20",
+        "agu": "MEX",
+        "aguascalientes": "Toluca de Lerdo"
+    },
+    {
+        "44562": 44562,
+        "01": "20",
+        "agu": "MIC",
+        "aguascalientes": "Tacámbaro de Codallos"
+    },
+    {
+        "44562": 44562,
+        "01": "20",
+        "agu": "NLE",
+        "aguascalientes": "Anáhuac"
+    },
+    {
+        "44562": 44562,
+        "01": "20",
+        "agu": "OAX",
+        "aguascalientes": "Santa María Huatulco"
+    },
+    {
+        "44562": 44562,
+        "01": "20",
+        "agu": "SIN",
+        "aguascalientes": "Aguaruto"
+    },
+    {
+        "44562": 44562,
+        "01": "20",
+        "agu": "SLP",
+        "aguascalientes": "El Naranjo"
+    },
+    {
+        "44562": 44562,
+        "01": "20",
+        "agu": "TAM",
+        "aguascalientes": "Nueva Ciudad Guerrero"
+    },
+    {
+        "44562": 44562,
+        "01": "20",
+        "agu": "VER",
+        "aguascalientes": "Carlos A. Carrillo"
+    },
+    {
+        "44562": 44562,
+        "01": "21",
+        "agu": "COA",
+        "aguascalientes": "Viesca"
+    },
+    {
+        "44562": 44562,
+        "01": "21",
+        "agu": "CHP",
+        "aguascalientes": "Pijijiapan"
+    },
+    {
+        "44562": 44562,
+        "01": "21",
+        "agu": "GRO",
+        "aguascalientes": "Petatlán"
+    },
+    {
+        "44562": 44562,
+        "01": "21",
+        "agu": "GUA",
+        "aguascalientes": "Empalme Escobedo (Escobedo)"
+    },
+    {
+        "44562": 44562,
+        "01": "21",
+        "agu": "JAL",
+        "aguascalientes": "Talpa de Allende"
+    },
+    {
+        "44562": 44562,
+        "01": "21",
+        "agu": "MEX",
+        "aguascalientes": "Valle de Chalco Solidaridad"
+    },
+    {
+        "44562": 44562,
+        "01": "21",
+        "agu": "MIC",
+        "aguascalientes": "Ciudad Lázaro Cárdenas"
+    },
+    {
+        "44562": 44562,
+        "01": "21",
+        "agu": "NLE",
+        "aguascalientes": "García"
+    },
+    {
+        "44562": 44562,
+        "01": "21",
+        "agu": "OAX",
+        "aguascalientes": "San Juan Bautista Cuicatlán"
+    },
+    {
+        "44562": 44562,
+        "01": "21",
+        "agu": "SIN",
+        "aguascalientes": "Cosalá"
+    },
+    {
+        "44562": 44562,
+        "01": "21",
+        "agu": "TAM",
+        "aguascalientes": "Valle Hermoso"
+    },
+    {
+        "44562": 44562,
+        "01": "21",
+        "agu": "VER",
+        "aguascalientes": "Pánuco"
+    },
+    {
+        "44562": 44562,
+        "01": "22",
+        "agu": "COA",
+        "aguascalientes": "Morelos"
+    },
+    {
+        "44562": 44562,
+        "01": "22",
+        "agu": "CHP",
+        "aguascalientes": "Reforma"
+    },
+    {
+        "44562": 44562,
+        "01": "22",
+        "agu": "GRO",
+        "aguascalientes": "La Unión"
+    },
+    {
+        "44562": 44562,
+        "01": "22",
+        "agu": "GUA",
+        "aguascalientes": "San Luis de la Paz"
+    },
+    {
+        "44562": 44562,
+        "01": "22",
+        "agu": "JAL",
+        "aguascalientes": "Etzatlán"
+    },
+    {
+        "44562": 44562,
+        "01": "22",
+        "agu": "MEX",
+        "aguascalientes": "Tejupilco de Hidalgo"
+    },
+    {
+        "44562": 44562,
+        "01": "22",
+        "agu": "MIC",
+        "aguascalientes": "Las Guacamayas"
+    },
+    {
+        "44562": 44562,
+        "01": "22",
+        "agu": "NLE",
+        "aguascalientes": "Ciudad Benito Juárez"
+    },
+    {
+        "44562": 44562,
+        "01": "22",
+        "agu": "OAX",
+        "aguascalientes": "Villa Sola de Vega"
+    },
+    {
+        "44562": 44562,
+        "01": "22",
+        "agu": "SIN",
+        "aguascalientes": "San Ignacio"
+    },
+    {
+        "44562": 44562,
+        "01": "22",
+        "agu": "VER",
+        "aguascalientes": "Tampico Alto"
+    },
+    {
+        "44562": 44562,
+        "01": "23",
+        "agu": "COA",
+        "aguascalientes": "Arteaga"
+    },
+    {
+        "44562": 44562,
+        "01": "23",
+        "agu": "CHP",
+        "aguascalientes": "Huixtla"
+    },
+    {
+        "44562": 44562,
+        "01": "23",
+        "agu": "GRO",
+        "aguascalientes": "San Luis San Pedro"
+    },
+    {
+        "44562": 44562,
+        "01": "23",
+        "agu": "GUA",
+        "aguascalientes": "Valle de Santiago"
+    },
+    {
+        "44562": 44562,
+        "01": "23",
+        "agu": "JAL",
+        "aguascalientes": "Sayula"
+    },
+    {
+        "44562": 44562,
+        "01": "23",
+        "agu": "MEX",
+        "aguascalientes": "Chalco de Díaz Covarrubias"
+    },
+    {
+        "44562": 44562,
+        "01": "23",
+        "agu": "MIC",
+        "aguascalientes": "Jiquilpan de Juárez"
+    },
+    {
+        "44562": 44562,
+        "01": "23",
+        "agu": "OAX",
+        "aguascalientes": "Ocotlán de Morelos"
+    },
+    {
+        "44562": 44562,
+        "01": "23",
+        "agu": "SIN",
+        "aguascalientes": "Topolobampo"
+    },
+    {
+        "44562": 44562,
+        "01": "23",
+        "agu": "VER",
+        "aguascalientes": "Tempoal de Sánchez"
+    },
+    {
+        "44562": 44562,
+        "01": "24",
+        "agu": "COA",
+        "aguascalientes": "Allende"
+    },
+    {
+        "44562": 44562,
+        "01": "24",
+        "agu": "CHP",
+        "aguascalientes": "Motozintla de Mendoza"
+    },
+    {
+        "44562": 44562,
+        "01": "24",
+        "agu": "GRO",
+        "aguascalientes": "Teloloapan"
+    },
+    {
+        "44562": 44562,
+        "01": "24",
+        "agu": "GUA",
+        "aguascalientes": "Abasolo"
+    },
+    {
+        "44562": 44562,
+        "01": "24",
+        "agu": "JAL",
+        "aguascalientes": "Ahualulco de Mercado"
+    },
+    {
+        "44562": 44562,
+        "01": "24",
+        "agu": "MEX",
+        "aguascalientes": "Amatepec"
+    },
+    {
+        "44562": 44562,
+        "01": "24",
+        "agu": "MIC",
+        "aguascalientes": "Tuxpan"
+    },
+    {
+        "44562": 44562,
+        "01": "24",
+        "agu": "OAX",
+        "aguascalientes": "Villa de Zaachila"
+    },
+    {
+        "44562": 44562,
+        "01": "24",
+        "agu": "SIN",
+        "aguascalientes": "Lic. Benito Juárez (Campo Gobierno)"
+    },
+    {
+        "44562": 44562,
+        "01": "24",
+        "agu": "VER",
+        "aguascalientes": "Tantoyuca"
+    },
+    {
+        "44562": 44562,
+        "01": "25",
+        "agu": "CHP",
+        "aguascalientes": "Acala"
+    },
+    {
+        "44562": 44562,
+        "01": "25",
+        "agu": "GRO",
+        "aguascalientes": "Técpan de Galeana"
+    },
+    {
+        "44562": 44562,
+        "01": "25",
+        "agu": "GUA",
+        "aguascalientes": "Rincón de Tamayo"
+    },
+    {
+        "44562": 44562,
+        "01": "25",
+        "agu": "JAL",
+        "aguascalientes": "Autlán de Navarro"
+    },
+    {
+        "44562": 44562,
+        "01": "25",
+        "agu": "MIC",
+        "aguascalientes": "Cotija de la Paz"
+    },
+    {
+        "44562": 44562,
+        "01": "25",
+        "agu": "OAX",
+        "aguascalientes": "Miahuatlán de Porfirio Díaz"
+    },
+    {
+        "44562": 44562,
+        "01": "25",
+        "agu": "VER",
+        "aguascalientes": "Gutiérrez Zamora"
+    },
+    {
+        "44562": 44562,
+        "01": "26",
+        "agu": "GRO",
+        "aguascalientes": "Huitzuco"
+    },
+    {
+        "44562": 44562,
+        "01": "26",
+        "agu": "GUA",
+        "aguascalientes": "Villagrán"
+    },
+    {
+        "44562": 44562,
+        "01": "26",
+        "agu": "JAL",
+        "aguascalientes": "Magdalena"
+    },
+    {
+        "44562": 44562,
+        "01": "26",
+        "agu": "MEX",
+        "aguascalientes": "Melchor Ocampo"
+    },
+    {
+        "44562": 44562,
+        "01": "26",
+        "agu": "MIC",
+        "aguascalientes": "Nueva Italia de Ruiz"
+    },
+    {
+        "44562": 44562,
+        "01": "26",
+        "agu": "OAX",
+        "aguascalientes": "Unión Hidalgo"
+    },
+    {
+        "44562": 44562,
+        "01": "26",
+        "agu": "VER",
+        "aguascalientes": "Platón Sánchez"
+    },
+    {
+        "44562": 44562,
+        "01": "27",
+        "agu": "GRO",
+        "aguascalientes": "Tixtla de Guerrero"
+    },
+    {
+        "44562": 44562,
+        "01": "27",
+        "agu": "GUA",
+        "aguascalientes": "Yuriria"
+    },
+    {
+        "44562": 44562,
+        "01": "27",
+        "agu": "JAL",
+        "aguascalientes": "San Julián"
+    },
+    {
+        "44562": 44562,
+        "01": "27",
+        "agu": "MEX",
+        "aguascalientes": "San Vicente Chicoloapan de Juárez"
+    },
+    {
+        "44562": 44562,
+        "01": "27",
+        "agu": "MIC",
+        "aguascalientes": "Cuitzeo del Porvenir"
+    },
+    {
+        "44562": 44562,
+        "01": "27",
+        "agu": "OAX",
+        "aguascalientes": "El Camarón"
+    },
+    {
+        "44562": 44562,
+        "01": "27",
+        "agu": "VER",
+        "aguascalientes": "Juan Rodríguez Clara"
+    },
+    {
+        "44562": 44562,
+        "01": "28",
+        "agu": "GRO",
+        "aguascalientes": "Tepecoacuilco de Trujano"
+    },
+    {
+        "44562": 44562,
+        "01": "28",
+        "agu": "GUA",
+        "aguascalientes": "Apaseo el Grande"
+    },
+    {
+        "44562": 44562,
+        "01": "28",
+        "agu": "JAL",
+        "aguascalientes": "Cocula"
+    },
+    {
+        "44562": 44562,
+        "01": "28",
+        "agu": "MEX",
+        "aguascalientes": "Capulhuac"
+    },
+    {
+        "44562": 44562,
+        "01": "28",
+        "agu": "OAX",
+        "aguascalientes": "San Pedro Mixtepec -Dto. 22-"
+    },
+    {
+        "44562": 44562,
+        "01": "28",
+        "agu": "VER",
+        "aguascalientes": "Huatusco de Chicuellar"
+    },
+    {
+        "44562": 44562,
+        "01": "29",
+        "agu": "GRO",
+        "aguascalientes": "San Marcos"
+    },
+    {
+        "44562": 44562,
+        "01": "29",
+        "agu": "GUA",
+        "aguascalientes": "Purísima de Bustos"
+    },
+    {
+        "44562": 44562,
+        "01": "29",
+        "agu": "JAL",
+        "aguascalientes": "El Grullo"
+    },
+    {
+        "44562": 44562,
+        "01": "29",
+        "agu": "MEX",
+        "aguascalientes": "Juchitepec de Mariano Riva Palacio"
+    },
+    {
+        "44562": 44562,
+        "01": "29",
+        "agu": "OAX",
+        "aguascalientes": "Santa Cruz Itundujia"
+    },
+    {
+        "44562": 44562,
+        "01": "29",
+        "agu": "VER",
+        "aguascalientes": "Ixtaczoquitlán"
+    },
+    {
+        "44562": 44562,
+        "01": "30",
+        "agu": "GRO",
+        "aguascalientes": "Azoyú"
+    },
+    {
+        "44562": 44562,
+        "01": "30",
+        "agu": "GUA",
+        "aguascalientes": "Salvatierra"
+    },
+    {
+        "44562": 44562,
+        "01": "30",
+        "agu": "JAL",
+        "aguascalientes": "San Miguel el Alto"
+    },
+    {
+        "44562": 44562,
+        "01": "30",
+        "agu": "MEX",
+        "aguascalientes": "Tequixquiac"
+    },
+    {
+        "44562": 44562,
+        "01": "30",
+        "agu": "OAX",
+        "aguascalientes": "Chahuites"
+    },
+    {
+        "44562": 44562,
+        "01": "30",
+        "agu": "VER",
+        "aguascalientes": "Río Blanco"
+    },
+    {
+        "44562": 44562,
+        "01": "31",
+        "agu": "GRO",
+        "aguascalientes": "Tlapehuala"
+    },
+    {
+        "44562": 44562,
+        "01": "31",
+        "agu": "GUA",
+        "aguascalientes": "Marfil"
+    },
+    {
+        "44562": 44562,
+        "01": "31",
+        "agu": "JAL",
+        "aguascalientes": "Tala"
+    },
+    {
+        "44562": 44562,
+        "01": "31",
+        "agu": "MEX",
+        "aguascalientes": "Xonacatlán"
+    },
+    {
+        "44562": 44562,
+        "01": "31",
+        "agu": "OAX",
+        "aguascalientes": "Heroica Ciudad de Ejutla de Crespo"
+    },
+    {
+        "44562": 44562,
+        "01": "31",
+        "agu": "VER",
+        "aguascalientes": "Isla"
+    },
+    {
+        "44562": 44562,
+        "01": "32",
+        "agu": "GRO",
+        "aguascalientes": "San Luis Acatlán"
+    },
+    {
+        "44562": 44562,
+        "01": "32",
+        "agu": "GUA",
+        "aguascalientes": "San José Iturbide"
+    },
+    {
+        "44562": 44562,
+        "01": "32",
+        "agu": "JAL",
+        "aguascalientes": "La Barca"
+    },
+    {
+        "44562": 44562,
+        "01": "32",
+        "agu": "MEX",
+        "aguascalientes": "San Mateo Atenco"
+    },
+    {
+        "44562": 44562,
+        "01": "32",
+        "agu": "OAX",
+        "aguascalientes": "San Pedro Tapanatepec"
+    },
+    {
+        "44562": 44562,
+        "01": "32",
+        "agu": "VER",
+        "aguascalientes": "Cuitláhuac"
+    },
+    {
+        "44562": 44562,
+        "01": "33",
+        "agu": "GRO",
+        "aguascalientes": "Chilapa de Álvarez"
+    },
+    {
+        "44562": 44562,
+        "01": "33",
+        "agu": "GUA",
+        "aguascalientes": "Apaseo el Alto"
+    },
+    {
+        "44562": 44562,
+        "01": "33",
+        "agu": "JAL",
+        "aguascalientes": "Jamay"
+    },
+    {
+        "44562": 44562,
+        "01": "33",
+        "agu": "OAX",
+        "aguascalientes": "Vicente Camalote"
+    },
+    {
+        "44562": 44562,
+        "01": "33",
+        "agu": "VER",
+        "aguascalientes": "Fortín de las Flores"
+    },
+    {
+        "44562": 44562,
+        "01": "34",
+        "agu": "GRO",
+        "aguascalientes": "Tlapa de Comonfort"
+    },
+    {
+        "44562": 44562,
+        "01": "34",
+        "agu": "GUA",
+        "aguascalientes": "Ciudad Manuel Doblado"
+    },
+    {
+        "44562": 44562,
+        "01": "34",
+        "agu": "JAL",
+        "aguascalientes": "Yahualica de González Gallo"
+    },
+    {
+        "44562": 44562,
+        "01": "34",
+        "agu": "OAX",
+        "aguascalientes": "Villa de Tamazulápam del Progreso"
+    },
+    {
+        "44562": 44562,
+        "01": "34",
+        "agu": "VER",
+        "aguascalientes": "Alvarado"
+    },
+    {
+        "44562": 44562,
+        "01": "35",
+        "agu": "GRO",
+        "aguascalientes": "Tlalixtaquilla"
+    },
+    {
+        "44562": 44562,
+        "01": "35",
+        "agu": "GUA",
+        "aguascalientes": "Jaral del Progreso"
+    },
+    {
+        "44562": 44562,
+        "01": "35",
+        "agu": "JAL",
+        "aguascalientes": "Colotlán"
+    },
+    {
+        "44562": 44562,
+        "01": "35",
+        "agu": "OAX",
+        "aguascalientes": "San Juan Bautista lo de Soto"
+    },
+    {
+        "44562": 44562,
+        "01": "35",
+        "agu": "VER",
+        "aguascalientes": "José Cardel"
+    },
+    {
+        "44562": 44562,
+        "01": "36",
+        "agu": "GRO",
+        "aguascalientes": "Cuajinicuilapa"
+    },
+    {
+        "44562": 44562,
+        "01": "36",
+        "agu": "GUA",
+        "aguascalientes": "San Diego de la Unión"
+    },
+    {
+        "44562": 44562,
+        "01": "36",
+        "agu": "JAL",
+        "aguascalientes": "Cihuatlán"
+    },
+    {
+        "44562": 44562,
+        "01": "36",
+        "agu": "MEX",
+        "aguascalientes": "Chiconcuac"
+    },
+    {
+        "44562": 44562,
+        "01": "36",
+        "agu": "OAX",
+        "aguascalientes": "San Juan Cacahuatepec"
+    },
+    {
+        "44562": 44562,
+        "01": "36",
+        "agu": "VER",
+        "aguascalientes": "Banderilla"
+    },
+    {
+        "44562": 44562,
+        "01": "37",
+        "agu": "GRO",
+        "aguascalientes": "Huamuxtitlán"
+    },
+    {
+        "44562": 44562,
+        "01": "37",
+        "agu": "GUA",
+        "aguascalientes": "Santa Cruz Juventino Rosas"
+    },
+    {
+        "44562": 44562,
+        "01": "37",
+        "agu": "JAL",
+        "aguascalientes": "Zapotiltic"
+    },
+    {
+        "44562": 44562,
+        "01": "37",
+        "agu": "OAX",
+        "aguascalientes": "San Pedro Totolapa"
+    },
+    {
+        "44562": 44562,
+        "01": "37",
+        "agu": "VER",
+        "aguascalientes": "Paraje Nuevo"
+    },
+    {
+        "44562": 44562,
+        "01": "38",
+        "agu": "GRO",
+        "aguascalientes": "Cruz Grande"
+    },
+    {
+        "44562": 44562,
+        "01": "38",
+        "agu": "GUA",
+        "aguascalientes": "Doctor Mora"
+    },
+    {
+        "44562": 44562,
+        "01": "38",
+        "agu": "JAL",
+        "aguascalientes": "Villa Corona"
+    },
+    {
+        "44562": 44562,
+        "01": "38",
+        "agu": "OAX",
+        "aguascalientes": "San Miguel el Grande"
+    },
+    {
+        "44562": 44562,
+        "01": "38",
+        "agu": "VER",
+        "aguascalientes": "Playa Vicente"
+    },
+    {
+        "44562": 44562,
+        "01": "39",
+        "agu": "GRO",
+        "aguascalientes": "Ocotito"
+    },
+    {
+        "44562": 44562,
+        "01": "39",
+        "agu": "GUA",
+        "aguascalientes": "Dolores Hgo. Cuna de la Indep. Nal."
+    },
+    {
+        "44562": 44562,
+        "01": "39",
+        "agu": "JAL",
+        "aguascalientes": "Teocaltiche"
+    },
+    {
+        "44562": 44562,
+        "01": "39",
+        "agu": "MEX",
+        "aguascalientes": "Almoloya de Juárez"
+    },
+    {
+        "44562": 44562,
+        "01": "39",
+        "agu": "OAX",
+        "aguascalientes": "Zimatlán de Álvarez"
+    },
+    {
+        "44562": 44562,
+        "01": "39",
+        "agu": "VER",
+        "aguascalientes": "Altotonga"
+    },
+    {
+        "44562": 44562,
+        "01": "40",
+        "agu": "GRO",
+        "aguascalientes": "Copala"
+    },
+    {
+        "44562": 44562,
+        "01": "40",
+        "agu": "MEX",
+        "aguascalientes": "Ocoyoacac"
+    },
+    {
+        "44562": 44562,
+        "01": "40",
+        "agu": "OAX",
+        "aguascalientes": "San Pablo Huitzo"
+    },
+    {
+        "44562": 44562,
+        "01": "40",
+        "agu": "VER",
+        "aguascalientes": "Juan Díaz Covarrubias"
+    },
+    {
+        "44562": 44562,
+        "01": "41",
+        "agu": "GRO",
+        "aguascalientes": "Zihuatanejo"
+    },
+    {
+        "44562": 44562,
+        "01": "41",
+        "agu": "JAL",
+        "aguascalientes": "Tequila"
+    },
+    {
+        "44562": 44562,
+        "01": "41",
+        "agu": "MEX",
+        "aguascalientes": "Zumpango"
+    },
+    {
+        "44562": 44562,
+        "01": "41",
+        "agu": "OAX",
+        "aguascalientes": "San Francisco Telixtlahuaca"
+    },
+    {
+        "44562": 44562,
+        "01": "41",
+        "agu": "VER",
+        "aguascalientes": "Cuichapa"
+    },
+    {
+        "44562": 44562,
+        "01": "42",
+        "agu": "JAL",
+        "aguascalientes": "El Quince (San José el Quince)"
+    },
+    {
+        "44562": 44562,
+        "01": "42",
+        "agu": "OAX",
+        "aguascalientes": "Mariscala de Juárez"
+    },
+    {
+        "44562": 44562,
+        "01": "42",
+        "agu": "VER",
+        "aguascalientes": "Santiago Tuxtla"
+    },
+    {
+        "44562": 44562,
+        "01": "43",
+        "agu": "JAL",
+        "aguascalientes": "San José el Verde (El Verde)"
+    },
+    {
+        "44562": 44562,
+        "01": "43",
+        "agu": "OAX",
+        "aguascalientes": "Santiago Pinotepa Nacional"
+    },
+    {
+        "44562": 44562,
+        "01": "43",
+        "agu": "VER",
+        "aguascalientes": "Huayacocotla"
+    },
+    {
+        "44562": 44562,
+        "01": "44",
+        "agu": "JAL",
+        "aguascalientes": "Jocotepec"
+    },
+    {
+        "44562": 44562,
+        "01": "44",
+        "agu": "OAX",
+        "aguascalientes": "Santiago Jamiltepec"
+    },
+    {
+        "44562": 44562,
+        "01": "44",
+        "agu": "VER",
+        "aguascalientes": "Paso de Ovejas"
+    },
+    {
+        "44562": 44562,
+        "01": "45",
+        "agu": "JAL",
+        "aguascalientes": "Tecalitlán"
+    },
+    {
+        "44562": 44562,
+        "01": "45",
+        "agu": "OAX",
+        "aguascalientes": "San Pedro Pochutla"
+    },
+    {
+        "44562": 44562,
+        "01": "45",
+        "agu": "VER",
+        "aguascalientes": "Catemaco"
+    },
+    {
+        "44562": 44562,
+        "01": "46",
+        "agu": "JAL",
+        "aguascalientes": "Chapala"
+    },
+    {
+        "44562": 44562,
+        "01": "46",
+        "agu": "OAX",
+        "aguascalientes": "Heroica Ciudad de Tlaxiaco"
+    },
+    {
+        "44562": 44562,
+        "01": "46",
+        "agu": "VER",
+        "aguascalientes": "Nogales"
+    },
+    {
+        "44562": 44562,
+        "01": "47",
+        "agu": "JAL",
+        "aguascalientes": "Ajijic"
+    },
+    {
+        "44562": 44562,
+        "01": "47",
+        "agu": "OAX",
+        "aguascalientes": "San Juan Bautista Valle Nacional"
+    },
+    {
+        "44562": 44562,
+        "01": "47",
+        "agu": "VER",
+        "aguascalientes": "Las Choapas"
+    },
+    {
+        "44562": 44562,
+        "01": "48",
+        "agu": "JAL",
+        "aguascalientes": "San Ignacio Cerro Gordo"
+    },
+    {
+        "44562": 44562,
+        "01": "48",
+        "agu": "OAX",
+        "aguascalientes": "Lagunas"
+    },
+    {
+        "44562": 44562,
+        "01": "48",
+        "agu": "VER",
+        "aguascalientes": "General Miguel Alemán (Potrero Nuevo)"
+    },
+    {
+        "44562": 44562,
+        "01": "49",
+        "agu": "JAL",
+        "aguascalientes": "Zacoalco de Torres"
+    },
+    {
+        "44562": 44562,
+        "01": "49",
+        "agu": "OAX",
+        "aguascalientes": "Ciudad Ixtepec"
+    },
+    {
+        "44562": 44562,
+        "01": "49",
+        "agu": "VER",
+        "aguascalientes": "Coatzintla"
+    },
+    {
+        "44562": 44562,
+        "01": "50",
+        "agu": "JAL",
+        "aguascalientes": "Huejuquilla el Alto"
+    },
+    {
+        "44562": 44562,
+        "01": "50",
+        "agu": "OAX",
+        "aguascalientes": "Santiago Juxtlahuaca"
+    },
+    {
+        "44562": 44562,
+        "01": "50",
+        "agu": "VER",
+        "aguascalientes": "Ángel R. Cabada"
+    },
+    {
+        "44562": 44562,
+        "01": "51",
+        "agu": "JAL",
+        "aguascalientes": "Villa Hidalgo"
+    },
+    {
+        "44562": 44562,
+        "01": "51",
+        "agu": "OAX",
+        "aguascalientes": "San Sebastián Tecomaxtlahuaca"
+    },
+    {
+        "44562": 44562,
+        "01": "51",
+        "agu": "VER",
+        "aguascalientes": "San Rafael"
+    },
+    {
+        "44562": 44562,
+        "01": "52",
+        "agu": "JAL",
+        "aguascalientes": "Unión de San Antonio"
+    },
+    {
+        "44562": 44562,
+        "01": "52",
+        "agu": "OAX",
+        "aguascalientes": "Asunción Nochixtlán"
+    },
+    {
+        "44562": 44562,
+        "01": "52",
+        "agu": "VER",
+        "aguascalientes": "Tlacojalpan"
+    },
+    {
+        "44562": 44562,
+        "01": "53",
+        "agu": "JAL",
+        "aguascalientes": "Las Pintitas"
+    },
+    {
+        "44562": 44562,
+        "01": "53",
+        "agu": "OAX",
+        "aguascalientes": "San Francisco Ixhuatán"
+    },
+    {
+        "44562": 44562,
+        "01": "53",
+        "agu": "VER",
+        "aguascalientes": "Cosoleacaque"
+    },
+    {
+        "44562": 44562,
+        "01": "54",
+        "agu": "JAL",
+        "aguascalientes": "Tamazula de Gordiano"
+    },
+    {
+        "44562": 44562,
+        "01": "54",
+        "agu": "OAX",
+        "aguascalientes": "San Blas Atempa"
+    },
+    {
+        "44562": 44562,
+        "01": "54",
+        "agu": "VER",
+        "aguascalientes": "Lerdo de Tejada"
+    },
+    {
+        "44562": 44562,
+        "01": "55",
+        "agu": "JAL",
+        "aguascalientes": "Acatlán de Juárez"
+    },
+    {
+        "44562": 44562,
+        "01": "55",
+        "agu": "OAX",
+        "aguascalientes": "Santo Domingo Tehuantepec"
+    },
+    {
+        "44562": 44562,
+        "01": "55",
+        "agu": "VER",
+        "aguascalientes": "Tihuatlán"
+    },
+    {
+        "44562": 44562,
+        "01": "56",
+        "agu": "JAL",
+        "aguascalientes": "Valle de Guadalupe"
+    },
+    {
+        "44562": 44562,
+        "01": "56",
+        "agu": "OAX",
+        "aguascalientes": "Cuilápam de Guerrero"
+    },
+    {
+        "44562": 44562,
+        "01": "56",
+        "agu": "VER",
+        "aguascalientes": "Atoyac"
+    },
+    {
+        "44562": 44562,
+        "01": "57",
+        "agu": "OAX",
+        "aguascalientes": "El Rosario"
+    },
+    {
+        "44562": 44562,
+        "01": "57",
+        "agu": "VER",
+        "aguascalientes": "Huiloapan de Cuauhtémoc"
+    },
+    {
+        "44562": 44562,
+        "01": "58",
+        "agu": "OAX",
+        "aguascalientes": "Santa Lucia del Camino"
+    },
+    {
+        "44562": 44562,
+        "01": "58",
+        "agu": "VER",
+        "aguascalientes": "Cazones de Herrera"
+    },
+    {
+        "44562": 44562,
+        "01": "59",
+        "agu": "OAX",
+        "aguascalientes": "San Antonio de la Cal"
+    },
+    {
+        "44562": 44562,
+        "01": "59",
+        "agu": "VER",
+        "aguascalientes": "Yecuatla"
+    },
+    {
+        "44562": 44562,
+        "01": "60",
+        "agu": "VER",
+        "aguascalientes": "Soledad de Doblado"
+    },
+    {
+        "44562": 44562,
+        "01": "61",
+        "agu": "VER",
+        "aguascalientes": "Cerro Azul"
+    },
+    {
+        "44562": 44562,
+        "01": "62",
+        "agu": "VER",
+        "aguascalientes": "Tezonapa"
+    },
+    {
+        "44562": 44562,
+        "01": "66",
+        "agu": "VER",
+        "aguascalientes": "Sihuapan"
+    },
+    {
+        "44562": 44562,
+        "01": "67",
+        "agu": "VER",
+        "aguascalientes": "El Higo"
+    },
+    {
+        "44562": 44562,
+        "01": "68",
+        "agu": "VER",
+        "aguascalientes": "Paso del Macho"
+    },
+    {
+        "44562": 44562,
+        "01": "69",
+        "agu": "VER",
+        "aguascalientes": "Tlapacoyan"
+    }
+]
