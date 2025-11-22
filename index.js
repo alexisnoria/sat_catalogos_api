@@ -1,17 +1,20 @@
 const express = require('express')
 const cors = require('cors')
 const app = express()
-const port = 3000
+const port = process.env.PORT || 3000
+const fs = require('fs');
+const path = require('path');
 const { getLatestCatalogo } = require('./utils');
-const { startScheduler } = require('./conversion');
+const { startScheduler, runConversion } = require('./conversion');
 
 // Enable CORS for all routes
 app.use(cors())
 
 app.get('/', (req, res) => {
-  res.json({ 
-    name: 'sat-catalogos-api',
-    message: 'Hola, parece que el api se esta ejecutando correctamente.' })
+    res.json({
+        name: 'sat-catalogos-api',
+        message: 'Hola, parece que el api se esta ejecutando correctamente.'
+    })
 })
 
 
@@ -32,7 +35,14 @@ app.get('/formas_pago', (req, res) => {
     }
 })
 
-app.listen(port, () => {
-  console.log(`Sat Catalogos API listening on port http://localhost:${port}`)
-  startScheduler();
+app.listen(port, async () => {
+    console.log(`Sat Catalogos API listening on port http://localhost:${port}`)
+
+    const outputDir = path.join(__dirname, 'output');
+    if (!fs.existsSync(outputDir) || fs.readdirSync(outputDir).length === 0) {
+        console.log("Output directory missing or empty. Running initial conversion...");
+        await runConversion();
+    }
+
+    startScheduler();
 })

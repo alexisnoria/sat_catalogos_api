@@ -76,13 +76,21 @@ async function downloadCatalogFile() {
                 method: 'get',
                 url: url,
                 responseType: 'arraybuffer',
-                timeout: 30000
+                timeout: 60000, // 60 seconds
+                maxRedirects: 5,
+                headers: {
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+                    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+                    'Accept-Language': 'es-ES,es;q=0.9,en;q=0.8',
+                    'Connection': 'keep-alive'
+                }
             });
 
             fs.writeFileSync(filePath, response.data);
             console.log(`File downloaded successfully: ${filePath}`);
             return filePath;
         } catch (error) {
+            console.log(error);
             // Continue to next date if not found or error
             continue;
         }
@@ -108,7 +116,7 @@ async function processCatalogs(filePath) {
 
     for (const sheetName of workbook.SheetNames) {
         console.log(`Processing sheet: ${sheetName}`);
-        
+
         const jsonPath = path.join(outputDir, `${sheetName}.json`);
         if (fs.existsSync(jsonPath)) {
             continue;
@@ -145,28 +153,28 @@ async function processCatalogs(filePath) {
         let dataStartIndex = startRowIndex + 1;
 
         if (sheetName.includes("Parte_1") || sheetName.includes("Parte_2")) {
-             // Read headers from the found row, but only first 7 columns (A:G)
-             // Note: In the python script, it read headers from `startRow`, then incremented startRow by 1.
-             // It seems it captured headers from one row, but the data started 2 rows after the 'title' row?
-             // Python: header=start_row (which is index+1). 
-             // Let's assume the row at startRowIndex is the header row.
-             
-             const headerRow = data[startRowIndex];
-             // Take first 7 columns for headers if it's Parte_1/2
-             headers = headerRow.slice(0, 7).map(h => cleanColumnName(h));
-             
-             // The Python script re-reads the file skipping 5 rows for the main data? 
-             // Wait, the python script logic for Parte_1/2 is specific:
-             // 1. Read header from `start_row` (usecols A:G) -> gets headers
-             // 2. `start_row += 1`
-             // 3. Read main df from `start_row` (ignoring first 5 rows? No, the comment says "ignorar las primeras 5 filas" but the code uses `header=start_row`)
-             // Let's stick to the logic: The header is at `startRowIndex`.
-             
-             // However, line 120 in python says: "leer primer hoja desde el renglon 6 (ignorar las primeras 5 filas)" 
-             // BUT it uses `header=start_row`. `start_row` was calculated dynamically.
-             // Let's rely on the dynamic calculation.
-             
-             // For Parte_1/2, we use the headers we found, but apply them to the first 7 columns of the data.
+            // Read headers from the found row, but only first 7 columns (A:G)
+            // Note: In the python script, it read headers from `startRow`, then incremented startRow by 1.
+            // It seems it captured headers from one row, but the data started 2 rows after the 'title' row?
+            // Python: header=start_row (which is index+1). 
+            // Let's assume the row at startRowIndex is the header row.
+
+            const headerRow = data[startRowIndex];
+            // Take first 7 columns for headers if it's Parte_1/2
+            headers = headerRow.slice(0, 7).map(h => cleanColumnName(h));
+
+            // The Python script re-reads the file skipping 5 rows for the main data? 
+            // Wait, the python script logic for Parte_1/2 is specific:
+            // 1. Read header from `start_row` (usecols A:G) -> gets headers
+            // 2. `start_row += 1`
+            // 3. Read main df from `start_row` (ignoring first 5 rows? No, the comment says "ignorar las primeras 5 filas" but the code uses `header=start_row`)
+            // Let's stick to the logic: The header is at `startRowIndex`.
+
+            // However, line 120 in python says: "leer primer hoja desde el renglon 6 (ignorar las primeras 5 filas)" 
+            // BUT it uses `header=start_row`. `start_row` was calculated dynamically.
+            // Let's rely on the dynamic calculation.
+
+            // For Parte_1/2, we use the headers we found, but apply them to the first 7 columns of the data.
         } else {
             headers = data[startRowIndex].map(h => cleanColumnName(h));
         }
@@ -187,7 +195,7 @@ async function processCatalogs(filePath) {
             });
             return obj;
         });
-        
+
         // Filter out empty objects if any
         const finalData = jsonData.filter(item => Object.keys(item).length > 0);
 
@@ -202,6 +210,7 @@ async function runConversion() {
     try {
         console.log("Starting catalog conversion process...");
         const filePath = await downloadCatalogFile();
+        console.log("Catalog downloaded successfully.");
         await processCatalogs(filePath);
         console.log("Catalog conversion completed successfully.");
     } catch (error) {
@@ -216,7 +225,7 @@ function startScheduler() {
     // Run at 16:00 CDMX time every day
     // Cron pattern: "0 0 * * *" (At 00:00)
     // We need to handle timezone. node-cron supports timezone.
-    
+
     cron.schedule('0 0 * * *', () => {
         console.log("Running scheduled task: SAT Catalog Conversion");
         runConversion();
@@ -224,7 +233,7 @@ function startScheduler() {
         scheduled: true,
         timezone: "America/Mexico_City"
     });
-    
+
     console.log("Scheduler started: SAT Catalog Conversion will run daily at 00:00 CDMX.");
 }
 
